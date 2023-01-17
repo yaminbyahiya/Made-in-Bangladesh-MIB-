@@ -1,0 +1,1708 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Countdown Timer Premium for WooCommerce and "
+"WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-19 08:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: sales-countdown-timer"
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:839
+msgid " 3D Flip"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1261
+msgid " in time"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2616
+msgid "%"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:730
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:193
+msgid "01 days 02 hours 03 minutes 04 seconds"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:727
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:192
+msgid "01 days 02 hrs 03 mins 04 secs"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:733
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:194
+msgid "01:02:03:04"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:736
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:195
+msgid "01d:02h:03m:04s"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:294
+msgid "3D Flip"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2492
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2694
+msgid "Above Countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2504
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2712
+msgid "Above Progress Bar"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:315
+msgid "Action"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:301
+msgid "Add to cart"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2295
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2388
+msgid "After cart"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2283
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2376
+msgid "After price"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2289
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2382
+msgid "After sale flash"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:825
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:266
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:288
+msgid "Animation style"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:51
+msgid "Applied to Simple, External/Affiliate and Variable product"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:435
+msgid "Auto change"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:413
+msgid ""
+"Auto change: Decrease the current discount by a specific percentage every X "
+"minute(s) or second(s)"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2796
+msgid "Auto update key"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:134
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:400
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:534
+msgid "Back to regular price"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1030
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1122
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1162
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1261
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1357
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1402
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1447
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1480
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1543
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1614
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1748
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1781
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1814
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1847
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2581
+msgid "Background"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1899
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2098
+msgid "Background 1"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1906
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2105
+msgid "Background 2"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:824
+msgid "Background color of Checkout button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:920
+msgid "Background color of Shop button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:584
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:254
+msgid "Basic Countdown Timer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2292
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2385
+msgid "Before cart"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1020
+msgid "Before checkout form"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1021
+msgid "Before customer details"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1022
+msgid "Before payment method"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2280
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2373
+msgid "Before price"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2286
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2379
+msgid "Before sale flash"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2495
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2697
+msgid "Below Countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:409
+msgid ""
+"Below options are used if you want to change offer when the countdown hits "
+"specific values"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2507
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2715
+msgid "Below Progress Bar"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:707
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:177
+msgid "Blank"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1037
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1129
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1169
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1301
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2683
+msgid "Border color"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1529
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1734
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1767
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1800
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1833
+msgid "Border color 1"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1536
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1741
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1774
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1807
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1840
+msgid "Border color 2"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1057
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1191
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1308
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1941
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2140
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2636
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2672
+msgid "Border radius"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1564
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1666
+msgid "Border width"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1249
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1390
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1602
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2014
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2213
+msgid "Bottom"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:352
+msgid "Cancel"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2480
+msgid "Cancelled"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:697
+msgid "Cart page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:702
+msgid "Category page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:457
+msgid "Change discount every"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:765
+msgid "Checkout"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:27
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:28
+msgid "Checkout Countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:947
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1087
+msgid "Checkout countdown message"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:352
+msgid "Checkout countdown offer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:186
+msgid "Checkout Countdown Timer For WooCommerce"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:696
+msgid "Checkout page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:23
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:24
+msgid "Checkout Report"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:38
+msgid "Checkout Reporting"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:65
+msgid "Choose display time"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:585
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:255
+msgid "Circular Countdown Timer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:586
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:256
+msgid "Circular Countdown Timer 1"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:126
+msgid "Click checkout button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:710
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:178
+msgid "Colon(:)"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1023
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1115
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1155
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1254
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1350
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1395
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1440
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1473
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1522
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1607
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2588
+msgid "Color"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2019
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2218
+msgid "Color "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1885
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2084
+msgid "Color 1"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1892
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2091
+msgid "Color 2"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:735
+msgid ""
+"Combining 2 or more conditionals using || to show countdown timer if 1 of "
+"the conditionals matched."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:713
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:179
+msgid "Comma(,)"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2462
+msgid "Completed"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:465
+msgid "Copy shortcode"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:524
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:81
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:360
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:476
+msgid "Countdown evergreen"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:56
+msgid "Countdown Profile"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:259
+msgid "Countdown time"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:305
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:327
+msgid "Countdown Timer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1725
+msgid "Countdown timer date"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1758
+msgid "Countdown timer hour"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1285
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1639
+msgid "Countdown timer items"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1791
+msgid "Countdown timer minute"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2336
+msgid "Countdown timer on Shop page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2266
+msgid "Countdown timer on the single product page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:934
+msgid "Countdown timer preview"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:106
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:385
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:502
+msgid "Countdown timer profile"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1824
+msgid "Countdown timer second"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:46
+msgid "Countdown type"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create a sense of urgency with a countdown to the beginning or end of sales, "
+"store launch or other events for higher conversions."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:438
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:739
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:196
+msgid "Custom"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:542
+msgid "Custom checkout countdown level "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:351
+msgid "Custom css"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:414
+msgid ""
+"Custom: Create your own levels that you want to change the offer, message "
+"can be customized for each level"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:398
+msgid "Customers will get this offer before checkout countdown time hits zero"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:886
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:341
+msgid "d"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:353
+msgid "Dates and times value are set in your website timezone."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:723
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:188
+msgid "Datetime format style"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1233
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1379
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1469
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1591
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2003
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2202
+msgid "Datetime unit"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1657
+msgid "Datetime unit color"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1709
+msgid "Datetime unit font size"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1142
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1346
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1436
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1518
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1881
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2080
+msgid "Datetime value"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1649
+msgid "Datetime value color"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1696
+msgid "Datetime value font size"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:690
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:161
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:204
+msgid "Day"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:245
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1258
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:542
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:97
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:371
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:487
+msgid "Days"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:751
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:794
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:868
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:874
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:323
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:329
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:206
+msgid "days"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2446
+msgid "Decrease"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:501
+msgid "Decrease discount amount"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:670
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:829
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:516
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:148
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:270
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:292
+msgid "Default"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:46
+msgid "Deleted checkout countdown data"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:558
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:125
+msgid "Design"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:200
+msgid "Design on checkout page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:203
+msgid "Design on other page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1576
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1679
+msgid "Diameter"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:369
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:376
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:662
+msgid "Discount amount"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/checkout-countdown.php:591
+msgid "Discount checkout"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:197
+msgid "Display checkout countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:513
+msgid ""
+"Display countdown timer of this variation when customers have not selected "
+"any variation"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:708
+msgid "Display countdown timer on"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:652
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:248
+msgid "Display type"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2039
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2238
+msgid "Distance to time value"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1993
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2192
+msgid "Dividing line color"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:716
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:180
+msgid "Dot(.)"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:548
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:466
+msgid "Duplicate"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2360
+msgid "eg: !is_page(array(34,98,73))"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:220
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:785
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:882
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1237
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1287
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2345
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2740
+msgid "Enable"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1969
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2168
+msgid "Enable box shadow"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:122
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:394
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:527
+msgid "Enable progress bar"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2474
+msgid "Failed"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:390
+msgid "Fixed"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1178
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1268
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1364
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1409
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1454
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1487
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1552
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1621
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2647
+msgid "Font size"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1046
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1954
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2026
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2153
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2225
+msgid "Fontsize"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:792
+msgid "Fontsize of Checkout button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:888
+msgid "Fontsize of Shop button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:102
+msgid "Form"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:649
+msgid "Free ship"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:363
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/checkout-countdown.php:596
+msgid "Free Shipping"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:49
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:490
+msgid "From"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:64
+msgid "From&hellip;"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:448
+msgid "From: "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:41
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:38
+msgid "General"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:194
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:326
+msgid "General Settings"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:473
+msgid "General settings"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2810
+msgid "Get Key"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:143
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:417
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:551
+msgid "Goal"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2818
+msgid "guide"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:887
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:342
+msgid "h"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1204
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1320
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1928
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2127
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2625
+msgid "Height"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:420
+msgid "here."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1104
+msgid "Hide datetime unit on sticky"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1244
+msgid "History time"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:700
+msgid "Home page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:693
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:162
+msgid "Hour"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:545
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:98
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:372
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:488
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:215
+msgid "Hours"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:758
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:801
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:875
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:330
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:217
+msgid "hours"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:869
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:324
+msgid "hrs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/sales-countdown-timer/"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:544
+msgid "If achieve the goal"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2439
+msgid ""
+"If select increase, the progress bar fill will increase each time the "
+"product is bought and vice versa"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:505
+#, php-format
+msgid ""
+"If the value is 10 percent, the checkout discount will reduce 10% of current "
+"value each time"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2513
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2721
+msgid "In Progress Bar"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2443
+msgid "Increase"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:152
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:424
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:558
+msgid "Initial quantity"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:75
+msgid ""
+"Leave blank to auto-choose the current product id when on a single product "
+"page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2358
+msgid "Leave blank to display on all pages with products list"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2700
+msgid "Left Countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2510
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2718
+msgid "Left Progress Bar"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:424
+msgid "Level discount"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1261
+msgid "Logs will be saved at "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:474
+msgid "Loop when countdown finish"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:888
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:343
+msgid "m"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:592
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:85
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:135
+msgid "Message"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2595
+msgid "Message color"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:975
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1114
+msgid "Message if missing offer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:590
+msgid "Message on checkout page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:614
+msgid "Message on other page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:144
+msgid "Message Position"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:666
+msgid "Message position"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:332
+msgid "Min cart total"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:339
+msgid "Minimum cart total to get offer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:293
+msgid "Minimum valid value is 1 second"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:870
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:325
+msgid "mins"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:68
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:271
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:470
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:568
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:696
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:163
+msgid "Minute"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:548
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:99
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:373
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:489
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:226
+msgid "Minutes"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:765
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:808
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:876
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:331
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:228
+msgid "minutes"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:629
+msgid "Mobile"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:699
+msgid "My account page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:477
+msgid "Name"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:384
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:432
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2308
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:133
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:403
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:533
+msgid "None"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:412
+msgid "None: The current discount is applied until the countdown hits zero"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:49
+msgid "Not found user id"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:211
+msgid ""
+"Note*: Changes in these settings will not be applied to carts which are "
+"already in a checkout countdown."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:42
+msgid "Note*: These settings will only save if product is on sale"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2429
+msgid "Number of products left"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2430
+msgid "Number of products sold"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2465
+msgid "On-hold"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1290
+msgid "Only administrators can view the checkout countdown in test mode"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:50
+msgid "Only applied to Simple and External/Affiliate product"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:776
+msgid "Open in new tab when clicking Checkout button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:873
+msgid "Open in new tab when clicking Shop button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2452
+msgid "Order status"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:43
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:130
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:132
+msgid "Orders"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:128
+msgid "Orders on sale countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:703
+msgid "Other Page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:136
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:402
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:536
+msgid "Out of stock"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1069
+msgid "Padding"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2468
+msgid "Pending"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:514
+msgid "Percentage"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2431
+msgid "Percentage of products left"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2432
+msgid "Percentage of products sold"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:387
+msgid "Percentage(%)"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:342
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:453
+msgctxt "placeholder"
+msgid "From&hellip;"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:347
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:461
+msgctxt "placeholder"
+msgid "To&hellip;"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2815
+msgid "Please fill your key what you get from "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:401
+msgid "Please set the offer for your Checkout countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1028
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1164
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1242
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1383
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1595
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2007
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2206
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2274
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2367
+msgid "Position"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:135
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:401
+msgid "Private product"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:535
+msgid "Private variation"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2471
+msgid "Processing"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:69
+msgid "Product id"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2298
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2391
+msgid "Product image"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:618
+msgid "Products list"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2399
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2752
+msgid "Progress bar"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2410
+msgid "Progress bar message"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2500
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2708
+msgid "Progress bar message position"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2488
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2690
+msgid "Progress bar position"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2526
+msgid "Progress bar preview"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2437
+msgid "Progress bar type"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2619
+msgid "px"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:613
+msgid "Reduce the size of countdown timer on"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2477
+msgid "Refunded"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:549
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:467
+msgid "Remove"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:206
+msgid "Report"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1002
+msgid "Reset"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1296
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1301
+msgid "Reset checkout countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:249
+msgid ""
+"Reset checkout countdown for a cart after this time if customer does not "
+"place order during checkout countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:235
+msgid "Reset Countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1303
+msgid ""
+"Reset current checkout discount applied to your account when Test mode is "
+"enabled"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:533
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:91
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:367
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:483
+msgid "Restart countdown after"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2703
+msgid "Right Countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2516
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2724
+msgid "Right Progress Bar"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:889
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:344
+msgid "s"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2662
+msgid "Sale Countdown on the single product page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:41
+msgid "Sale Countdown Timer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:460
+msgid "Sale end date"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:340
+msgid "Sale price dates and times"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:58
+msgid "Sale price dates and times "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:452
+msgid "Sale start date"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:304
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:319
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:15
+msgid "Sales Countdown Timer"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sales Countdown Timer Premium for WooCommerce and WordPress"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1313
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2828
+msgid "Save"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2832
+msgid "Save & Check Key"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1221
+msgid "Save Logs"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:484
+msgid "Schedule the time for shortcode usage"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:71
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:284
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:473
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:581
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:699
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:164
+msgid "Second"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:237
+msgid "Seconds"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:772
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:815
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:877
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:332
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:239
+msgid "seconds"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:871
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/frontend/shortcode.php:326
+msgid "secs"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2817
+msgid "See"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:418
+msgid "See your very first sales countdown timer "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:413
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:547
+msgid "Select an action when achieving the goal before sale ends"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1047
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1184
+msgid "Select Countdown timer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:388
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:505
+msgid "Select countdown timer settings."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:727
+msgid ""
+"Select pages to show checkout countdown. Leave blank to show checkout "
+"countdown on all pages."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1093
+#, php-format
+msgid "Set width 100% on sticky"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:46
+msgid "Setting Countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/admin.php:13
+msgid "Settings"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2841
+msgid "Settings saved"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:698
+msgid "Shop page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:862
+msgid "Shopping"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1003
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1141
+msgid "Shortcode available"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:461
+msgid "Shortcode copied to clipboard!"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:458
+msgid "Shortcode: "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2319
+msgid "Show \"Add to cart\" button on sticky countdown"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1981
+msgid "Show dividing line behind datetime value"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2180
+msgid "Show dividing line behind value text"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2356
+msgid "Show on"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:701
+msgid "Single product page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:587
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:257
+msgid "Sleek Countdown Timer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:588
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:258
+msgid "Sleek Countdown Timer 1"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:832
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:271
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:293
+msgid "Slide"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:582
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:252
+msgid "Square Countdown Timer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:583
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:253
+msgid "Square Countdown Timer 1"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:327
+msgid "Start checking if a cart is qualified to get offer when:"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:308
+msgid "Starting condition"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:640
+msgid "Sticky"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1024
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1160
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2314
+msgid "Sticky bottom"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1023
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1159
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2311
+msgid "Sticky top"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2304
+msgid "Sticky when scrolling"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1010
+msgid "Style"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1083
+msgid "Style on sticky"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1276
+msgid "Test mode"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:808
+msgid "Text color of Checkout button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:904
+msgid "Text color of Shop button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1008
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1147
+msgid "The button go to store"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:484
+msgid "The change time must be less than countdown time"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:489
+msgid "The change time must be over 15 second or 1 minute"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:638
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1007
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1146
+msgid "The checkout button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:607
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2768
+msgid "The countdown timer that you set on the design tab"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:635
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1006
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1145
+msgid "The countdown timer that you set up on 'Sales Countdown Timer' page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:597
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:622
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:955
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:987
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1095
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1126
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:609
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:138
+msgid ""
+"The countdown timer will not show if message does not include "
+"{countdown_timer}"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:645
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1013
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1152
+msgid "The current cart total without applying discount "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:643
+msgid "The discount amount in currency"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1010
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1149
+msgid ""
+"The discount amount in currency. Not apply to 'Message if missing offer'"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:641
+msgid "The discount in percentage"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1009
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1148
+msgid "The discount in percentage. Not apply to 'Message if missing offer'"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:479
+msgid "The discount won't be changed if not change time"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2433
+msgid "The goal that you set on single product"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:290
+msgid ""
+"The maximum valid time that this offer bellow are applied. When time hits "
+"zero, offer will be gone"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:644
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1012
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1151
+msgid "The minimum cart total required to get offer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1011
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1150
+msgid ""
+"The missing amount to get offer. Not apply to 'Checkout countdown message'"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:680
+msgid ""
+"The option is used for shortcode only.Leave blank to show all time units on "
+"countdown timers. Don't apply for 'Sleek Countdown Timer 1'"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2369
+msgid ""
+"The position of countdown timer on shop page, category page and other "
+"products list pages"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2276
+msgid ""
+"The position of countdown timer on the single product page (can not set "
+"position for variable products)"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:673
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:149
+msgid "The same line as the countdown timer"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:487
+msgid ""
+"These values are used for shortcode only. To schedule sale for product "
+"please go to admin product."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:429
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:559
+msgid "This is the virtual quantity of sold products"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:983
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:1122
+msgid ""
+"This message only shows during checkout countdown when a cart is updated so "
+"that the current cart is smaller than the minimum required value."
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:447
+msgid "This option will only be available if 'Discount amount' has value"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:703
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:173
+msgid "Time separator"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:684
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:157
+msgid "Time units"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:750
+msgid "Title of Checkout button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:847
+msgid "Title of Shop button"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:54
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:507
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:113
+msgid "To"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:303
+msgid "To cart page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout.php:302
+msgid "To checkout page"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:70
+msgid "To&hellip;"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:452
+msgid "To: "
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1246
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1387
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1599
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2011
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2210
+msgid "Top"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2731
+msgid "Upcoming sale"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2764
+msgid "Upcoming sale message"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:328
+msgid "Update"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:337
+msgid "Use cache plugin"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/3rd/elementor/shortcode-widget.php:92
+msgid "Use shortcode in checkout countdown setting"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:847
+msgid "Use smooth animation for circle"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/checkout-report.php:79
+msgid "VIEW"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:130
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:410
+msgid "When achieving the goal"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2458
+msgid ""
+"When new order created, update the progress bar when order status are(leave "
+"blank to apply for all order status):"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1217
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1332
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:1915
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2114
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2605
+msgid "Width"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/countdown.php:2261
+msgid "WooCommerce Product"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:422
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:552
+msgid "Your product goal"
+msgstr ""
+
+#: E:/git-change/PREMIUM-VERSION/sctv-sales-countdown-timer/sctv-sales-countdown-timer/includes/admin/product.php:49
+msgid "— No change —"
+msgstr ""

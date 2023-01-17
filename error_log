@@ -1,0 +1,342 @@
+[12-Dec-2022 12:55:45 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp8g_options` WHERE `option_name` = '_transient_global_styles_minimog-child' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/minimog/404.php'), get_header, locate_template, load_template, require_once('/themes/minimog/header-404.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[19-Dec-2022 13:25:41 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Dec-2022 14:13:42 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Dec-2022 15:10:53 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wphq_options` WHERE `option_name` = '_transient_timeout_global_styles_svg_filters_minimog-child' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/minimog/404.php'), get_header, locate_template, load_template, require_once('/themes/minimog/header-404.php'), wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_global_styles_render_svg_filters, wp_get_global_styles_svg_filters, get_transient, delete_option
+[21-Dec-2022 14:28:16 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='NL'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='AK'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='WA'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='BP'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='TK'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='GI'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='HB'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='MW'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='WE'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='NS'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='MB'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='TM'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='WC'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='CT'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='OT'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='NZ')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='SL'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_new_zealand_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='VN'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='LH'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='VL'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='DP'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='DT'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='ZT'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='ZK'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='ZP'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='IF'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='KV'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='KH'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='LV'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='MY'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='OD'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='PL'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='RV'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='SM'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='TP'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='KK'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='KS'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='KM'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='CK'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='CH'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:30:56 UTC] WordPress database error Unknown column 'wp_postmeta.post_id' in 'where clause' for query SELECT meta_id FROM wphq_postmeta,
+					(SELECT DISTINCT post_id FROM wphq_postmeta
+					WHERE (meta_key = '_billing_country' OR meta_key='_shipping_country') AND meta_value='UA')
+					AS states_in_country
+				WHERE (meta_key='_billing_state' OR meta_key='_shipping_state')
+				AND meta_value='CV'
+				AND wp_postmeta.post_id = states_in_country.post_id
+				LIMIT 100 made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_update_721_adjust_ukraine_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states, Automattic\WooCommerce\Database\Migrations\MigrationHelper::migrate_country_states_for_orders
+[21-Dec-2022 15:37:48 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[21-Dec-2022 22:20:00 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wphq_options` WHERE `option_name` = '_transient_global_styles_minimog-child' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/minimog/page.php'), get_header, locate_template, load_template, require_once('/themes/minimog/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[26-Dec-2022 09:41:37 UTC] Cron reschedule event error for hook: woocommerce_cleanup_logs, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[26-Dec-2022 09:41:37 UTC] Cron unschedule event error for hook: woocommerce_cleanup_logs, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[26-Dec-2022 09:41:37 UTC] Cron reschedule event error for hook: woocommerce_cleanup_rate_limits, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[26-Dec-2022 09:41:37 UTC] Cron unschedule event error for hook: woocommerce_cleanup_rate_limits, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[12-Jan-2023 13:49:03 UTC] Cron reschedule event error for hook: elementor_1_elementor_pro_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_pro_updater_cron_interval","args":[],"interval":300}
+[12-Jan-2023 14:25:39 UTC] PHP Fatal error:  Uncaught Requests_Exception_HTTP_403: 403 Forbidden in /home/mibspiri/public_html/wp-content/plugins/elementor/core/frontend/render-mode-manager.php:138
+Stack trace:
+#0 /home/mibspiri/public_html/wp-content/plugins/elementor/core/frontend/render-mode-manager.php(157): Elementor\Core\Frontend\Render_Mode_Manager->add_current_actions()
+#1 /home/mibspiri/public_html/wp-content/plugins/elementor/includes/frontend.php(194): Elementor\Core\Frontend\Render_Mode_Manager->__construct()
+#2 /home/mibspiri/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->init_render_mode('')
+#3 /home/mibspiri/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 /home/mibspiri/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/mibspiri/public_html/wp-includes/template-loader.php(13): do_action('template_redire...')
+#6 /home/mibspiri/public_html/wp-blog-header.php(19): require_once('/home/mibspiri/...')
+#7 /home/mibspiri/public_html/index.php(17): require('/home/mi in /home/mibspiri/public_html/wp-content/plugins/elementor/core/frontend/render-mode-manager.php on line 138

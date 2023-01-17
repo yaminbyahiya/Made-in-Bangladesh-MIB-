@@ -1,0 +1,54 @@
+/**1.0.7 - 2022.10.21**/
+- Updated: Update support file
+- Updated: Shortcode [sales_countdown_timer_list] to show all products have countdown timer
+- Fixed: Load file error when use WooCommerce cart all in one
+- Fixed: Price load error
+- Fixed: Custom checkout timer not working
+- Fixed: Elementor deprecated function
+
+/**1.0.6 - 2022.03.29**/
+- Updated: Update support file
+
+/**1.0.5 - 2022.03.22**/
+- Added: Option compatible with cache plugin via AJAX
+- Fixed: Fixed can not save the Discount level setting
+- Updated: Compatible with WP 5.9 and WC6.3.0
+- Updated: Update support file
+
+/**1.0.4 - 2021.11.17**/
+- Fixed: Do not allow to save the automatic update code
+- Fixed: Change data default to Back to regular price when achieving the goal
+
+/**1.0.3 - 2021.11.09**/
+- Fixed: Function get key for automatic update does not work
+
+/**1.0.2 - 2021.11.02**/
+- Fixed: Use wc_get_template() function even when WooCommerce is not active
+- Added: Compatibility with WPML, Polylang
+
+/**1.0.1.4 - 2021.07.07**/
+- Fixed: conditional tag for WooCommerce
+- Added: Compatibility with WooCommerce Subscriptions 3.0.7
+- Added: Not reload page after countdown for shortcode
+– Updated: Allow to set product countdown timer without sale price
+
+/**1.0.1.3 - 2020.08.22**/
+- Fixed: refresh page on iOS device
+
+/**1.0.1.2 - 2020.08.15**/
+- Added: Compatibility with WP 5.5 and WC 4.3
+– Updated: Class support
+– Updated: Display countdown timer
+- Fixed: Check update request
+
+/**1.0.1.1 - 2020.05.20/
+- Updated: compatible with Elementor for Shortcode
+– Updated: Class support
+
+/**1.0.1 - 2020.03.12/
+- Added: Checkout countdown report
+- Added: Countdown evergreen for shortcode  and product
+- Added: New style for countdown timer in single product page
+
+/**1.0.0 - 2019.12.20**/
+- First release

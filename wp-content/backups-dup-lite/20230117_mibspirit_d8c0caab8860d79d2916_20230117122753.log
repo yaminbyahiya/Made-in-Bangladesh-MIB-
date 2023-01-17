@@ -1,0 +1,72 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: January 17, 2023 12:28 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.1
+WORDPRESS:	6.1.1
+PHP INFO:	7.4.33 | SAPI: litespeed
+SERVER:		LiteSpeed 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 12MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230117_mibspirit_d8c0caab8860d79d2916_20230117122753_database.sql
+SQL FILE SIZE: 17.18MB (18015846)
+SQL FILE TIME: 2023-01-17 12:28:16
+SQL RUNTIME: 0.19 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/mibspiri/public_html
+ARCHIVE FILE: 20230117_mibspirit_d8c0caab8860d79d2916_20230117122753_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	1.64GB
+STATS:	Dirs 3,553 | Files 21,500
+SQL ADDED: 20230117_mibspirit_d8c0caab8860d79d2916_20230117122753_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 25053
+    [filename] => /home/mibspiri/public_html/wp-content/backups-dup-lite/tmp/20230117_mibspirit_d8c0caab8860d79d2916_20230117122753_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 25052
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 1.33GB
+ARCHIVE RUNTIME: 69.38 sec.
+MEMORY STACK: 21.13MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 17.18MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 1.33GB 
+EXPECTED FILE/DIRECTORY COUNT: 25,053
+ACTUAL FILE/DIRECTORY COUNT: 25,052
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 123.94 sec.
+PEAK PHP MEMORY USED: 25.13MB
+DONE PROCESSING => 20230117_mibspirit January 17, 2023 12:30 pm
+

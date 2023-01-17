@@ -1,0 +1,238 @@
+0000.001 () Opened log file at time: Wed, 21 Dec 2022 15:35:47 +0000 on https://mibspirit.shop
+0000.001 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.24 WP: 6.1.1 PHP: 7.4.33 (litespeed, Linux s575.use6.mysecurecloudhost.com 4.18.0-372.9.1.1.lve.el8.x86_64 #1 SMP Tue May 24 07:49:22 EDT 2022 x86_64) MySQL: 10.5.18-MariaDB-cll-lve (max packet size=268435456) WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 23.5M | 8M) multisite: N openssl: OpenSSL 1.1.1p  21 Jun 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.015 () Free space on disk containing Updraft's temporary directory: 287264.5 MB
+0000.026 () Restore setup, now closing connection and starting restore over AJAX.
+0000.001 () Opened log file at time: Wed, 21 Dec 2022 15:35:48 +0000 on https://mibspirit.shop
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.24 WP: 6.1.1 PHP: 7.4.33 (litespeed, Linux s575.use6.mysecurecloudhost.com 4.18.0-372.9.1.1.lve.el8.x86_64 #1 SMP Tue May 24 07:49:22 EDT 2022 x86_64) MySQL: 10.5.18-MariaDB-cll-lve (max packet size=268435456) WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 23M | 8M) multisite: N openssl: OpenSSL 1.1.1p  21 Jun 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.014 () Free space on disk containing Updraft's temporary directory: 287263.8 MB
+0000.015 () Ensuring WP_Filesystem is setup for a restore
+0000.015 () WP_Filesystem is setup and ready for a restore
+0000.016 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"include_unspecified_tables":false,"tables_to_restore":["wphq_options","wphq_users","wphq_usermeta","wphq_actionscheduler_actions","wphq_actionscheduler_claims","wphq_actionscheduler_groups","wphq_actionscheduler_logs","wphq_commentmeta","wphq_comments","wphq_links","wphq_postmeta","wphq_posts","wphq_term_relationships","wphq_term_taxonomy","wphq_termmeta","wphq_terms","wphq_wc_category_lookup","wphq_wc_product_meta_lookup","wphq_wc_reserved_stock","wphq_wc_tax_rate_classes","wphq_woocommerce_order_itemmeta","wphq_woocommerce_payment_tokenmeta","wphq_e_events","wphq_wc_admin_note_actions","wphq_wc_admin_notes","wphq_wc_customer_lookup","wphq_wc_download_log","wphq_wc_order_coupon_lookup","wphq_wc_order_product_lookup","wphq_wc_order_stats","wphq_wc_order_tax_lookup","wphq_wc_product_attributes_lookup","wphq_wc_product_download_directories","wphq_wc_rate_limits","wphq_wc_webhooks","wphq_woocommerce_api_keys","wphq_woocommerce_attribute_taxonomies","wphq_woocommerce_downloadable_product_permissions","wphq_woocommerce_log","wphq_woocommerce_order_items","wphq_woocommerce_payment_tokens","wphq_woocommerce_sessions","wphq_woocommerce_shipping_zone_locations","wphq_woocommerce_shipping_zone_methods","wphq_woocommerce_shipping_zones","wphq_woocommerce_tax_rate_locations","wphq_woocommerce_tax_rates","wphq_wpforms_tasks_meta"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.017 () Entity: db
+0000.017 () restore_backup(backup_file=backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-db.gz, type=db, info=a:0:{}, last_one=)
+0000.017 () Unpacking backup... (backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-db.gz, 1.5 Mb)
+0000.019 () Database successfully unpacked
+0000.019 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.019 () Using direct MySQL access; value of use_mysqli is: 1
+0000.019 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0000.034 () Max packet size: 256 MB
+0000.034 () Entering maintenance mode
+0000.034 () Enabling Maintenance mode&#8230;
+0000.036 () Backup of: https://mibspirit.shop
+0000.037 () Content URL: https://mibspirit.shop/wp-content
+0000.037 () Uploads URL: https://mibspirit.shop/wp-content/uploads
+0000.037 () Old table prefix: wphq_
+0000.037 () Site information: multisite=0
+0000.037 () Site information: sql_mode=NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0000.037 () New table prefix: ea_
+0000.038 () Processing table (InnoDB): wphq_options - will restore as: ea_options
+0000.091 () Atomic restore: dropping original table (wphq_options)
+0000.093 () Atomic restore: renaming new table (ea_options) to final table name (wphq_options)
+0000.094 () Restoring prior UD configuration (table: wphq_options; keys: 4)
+0000.100 () Processing table (InnoDB): wphq_users - will restore as: ea_users
+0000.102 () Atomic restore: dropping original table (wphq_users)
+0000.103 () Atomic restore: renaming new table (ea_users) to final table name (wphq_users)
+0000.104 () Processing table (InnoDB): wphq_usermeta - will restore as: ea_usermeta
+0000.106 () Atomic restore: dropping original table (wphq_usermeta)
+0000.106 () Atomic restore: renaming new table (ea_usermeta) to final table name (wphq_usermeta)
+0000.107 () Processing table (InnoDB): wphq_actionscheduler_actions - will restore as: ea_actionscheduler_actions
+0000.159 () Atomic restore: dropping original table (wphq_actionscheduler_actions)
+0000.161 () Atomic restore: renaming new table (ea_actionscheduler_actions) to final table name (wphq_actionscheduler_actions)
+0000.162 () Processing table (InnoDB): wphq_actionscheduler_claims - will restore as: ea_actionscheduler_claims
+0000.163 () Atomic restore: dropping original table (wphq_actionscheduler_claims)
+0000.164 () Atomic restore: renaming new table (ea_actionscheduler_claims) to final table name (wphq_actionscheduler_claims)
+0000.164 () Processing table (InnoDB): wphq_actionscheduler_groups - will restore as: ea_actionscheduler_groups
+0000.166 () Atomic restore: dropping original table (wphq_actionscheduler_groups)
+0000.167 () Atomic restore: renaming new table (ea_actionscheduler_groups) to final table name (wphq_actionscheduler_groups)
+0000.167 () Processing table (InnoDB): wphq_actionscheduler_logs - will restore as: ea_actionscheduler_logs
+0000.208 () Atomic restore: dropping original table (wphq_actionscheduler_logs)
+0000.209 () Atomic restore: renaming new table (ea_actionscheduler_logs) to final table name (wphq_actionscheduler_logs)
+0000.210 () Processing table (InnoDB): wphq_commentmeta - will restore as: ea_commentmeta
+0000.212 () Atomic restore: dropping original table (wphq_commentmeta)
+0000.212 () Atomic restore: renaming new table (ea_commentmeta) to final table name (wphq_commentmeta)
+0000.213 () Processing table (InnoDB): wphq_comments - will restore as: ea_comments
+0000.215 () Atomic restore: dropping original table (wphq_comments)
+0000.216 () Atomic restore: renaming new table (ea_comments) to final table name (wphq_comments)
+0000.217 () Processing table (InnoDB): wphq_links - will restore as: ea_links
+0000.218 () Atomic restore: dropping original table (wphq_links)
+0000.219 () Atomic restore: renaming new table (ea_links) to final table name (wphq_links)
+0000.219 () Processing table (InnoDB): wphq_postmeta - will restore as: ea_postmeta
+0000.307 () Database queries processed: 50 in 0.29 seconds
+0000.437 () Atomic restore: dropping original table (wphq_postmeta)
+0000.443 () Atomic restore: renaming new table (ea_postmeta) to final table name (wphq_postmeta)
+0000.443 () Processing table (InnoDB): wphq_posts - will restore as: ea_posts
+0000.514 () Atomic restore: dropping original table (wphq_posts)
+0000.516 () Atomic restore: renaming new table (ea_posts) to final table name (wphq_posts)
+0000.517 () Processing table (InnoDB): wphq_term_relationships - will restore as: ea_term_relationships
+0000.520 () Atomic restore: dropping original table (wphq_term_relationships)
+0000.521 () Atomic restore: renaming new table (ea_term_relationships) to final table name (wphq_term_relationships)
+0000.521 () Processing table (InnoDB): wphq_term_taxonomy - will restore as: ea_term_taxonomy
+0000.524 () Atomic restore: dropping original table (wphq_term_taxonomy)
+0000.524 () Atomic restore: renaming new table (ea_term_taxonomy) to final table name (wphq_term_taxonomy)
+0000.525 () Processing table (InnoDB): wphq_termmeta - will restore as: ea_termmeta
+0000.527 () Atomic restore: dropping original table (wphq_termmeta)
+0000.528 () Atomic restore: renaming new table (ea_termmeta) to final table name (wphq_termmeta)
+0000.529 () Processing table (InnoDB): wphq_terms - will restore as: ea_terms
+0000.531 () Atomic restore: dropping original table (wphq_terms)
+0000.532 () Atomic restore: renaming new table (ea_terms) to final table name (wphq_terms)
+0000.532 () Processing table (InnoDB): wphq_wc_category_lookup - will restore as: ea_wc_category_lookup
+0000.534 () Atomic restore: dropping original table (wphq_wc_category_lookup)
+0000.535 () Atomic restore: renaming new table (ea_wc_category_lookup) to final table name (wphq_wc_category_lookup)
+0000.535 () Processing table (InnoDB): wphq_wc_product_meta_lookup - will restore as: ea_wc_product_meta_lookup
+0000.545 () Atomic restore: dropping original table (wphq_wc_product_meta_lookup)
+0000.546 () Atomic restore: renaming new table (ea_wc_product_meta_lookup) to final table name (wphq_wc_product_meta_lookup)
+0000.546 () Processing table (InnoDB): wphq_wc_reserved_stock - will restore as: ea_wc_reserved_stock
+0000.548 () Atomic restore: dropping original table (wphq_wc_reserved_stock)
+0000.548 () Atomic restore: renaming new table (ea_wc_reserved_stock) to final table name (wphq_wc_reserved_stock)
+0000.549 () Processing table (InnoDB): wphq_wc_tax_rate_classes - will restore as: ea_wc_tax_rate_classes
+0000.550 () Atomic restore: dropping original table (wphq_wc_tax_rate_classes)
+0000.551 () Atomic restore: renaming new table (ea_wc_tax_rate_classes) to final table name (wphq_wc_tax_rate_classes)
+0000.551 () Processing table (InnoDB): wphq_woocommerce_order_itemmeta - will restore as: ea_woocommerce_order_itemmeta
+0000.553 () Atomic restore: dropping original table (wphq_woocommerce_order_itemmeta)
+0000.554 () Atomic restore: renaming new table (ea_woocommerce_order_itemmeta) to final table name (wphq_woocommerce_order_itemmeta)
+0000.554 () Processing table (InnoDB): wphq_woocommerce_payment_tokenmeta - will restore as: ea_woocommerce_payment_tokenmeta
+0000.556 () Database queries processed: 100 in 0.54 seconds
+0000.556 () Atomic restore: dropping original table (wphq_woocommerce_payment_tokenmeta)
+0000.556 () Atomic restore: renaming new table (ea_woocommerce_payment_tokenmeta) to final table name (wphq_woocommerce_payment_tokenmeta)
+0000.557 () Processing table (InnoDB): wphq_e_events - will restore as: ea_e_events
+0000.565 () Atomic restore: dropping original table (wphq_e_events)
+0000.566 () Atomic restore: renaming new table (ea_e_events) to final table name (wphq_e_events)
+0000.566 () Processing table (InnoDB): wphq_wc_admin_note_actions - will restore as: ea_wc_admin_note_actions
+0000.574 () Atomic restore: dropping original table (wphq_wc_admin_note_actions)
+0000.575 () Atomic restore: renaming new table (ea_wc_admin_note_actions) to final table name (wphq_wc_admin_note_actions)
+0000.575 () Processing table (InnoDB): wphq_wc_admin_notes - will restore as: ea_wc_admin_notes
+0000.577 () Atomic restore: dropping original table (wphq_wc_admin_notes)
+0000.578 () Atomic restore: renaming new table (ea_wc_admin_notes) to final table name (wphq_wc_admin_notes)
+0000.579 () Processing table (InnoDB): wphq_wc_customer_lookup - will restore as: ea_wc_customer_lookup
+0000.580 () Atomic restore: dropping original table (wphq_wc_customer_lookup)
+0000.581 () Atomic restore: renaming new table (ea_wc_customer_lookup) to final table name (wphq_wc_customer_lookup)
+0000.581 () Processing table (InnoDB): wphq_wc_download_log - will restore as: ea_wc_download_log
+0000.583 () Atomic restore: dropping original table (wphq_wc_download_log)
+0000.584 () Atomic restore: renaming new table (ea_wc_download_log) to final table name (wphq_wc_download_log)
+0000.584 () Processing table (InnoDB): wphq_wc_order_coupon_lookup - will restore as: ea_wc_order_coupon_lookup
+0000.592 () Atomic restore: dropping original table (wphq_wc_order_coupon_lookup)
+0000.592 () Atomic restore: renaming new table (ea_wc_order_coupon_lookup) to final table name (wphq_wc_order_coupon_lookup)
+0000.593 () Processing table (InnoDB): wphq_wc_order_product_lookup - will restore as: ea_wc_order_product_lookup
+0000.595 () Atomic restore: dropping original table (wphq_wc_order_product_lookup)
+0000.596 () Atomic restore: renaming new table (ea_wc_order_product_lookup) to final table name (wphq_wc_order_product_lookup)
+0000.596 () Processing table (InnoDB): wphq_wc_order_stats - will restore as: ea_wc_order_stats
+0000.598 () Atomic restore: dropping original table (wphq_wc_order_stats)
+0000.599 () Atomic restore: renaming new table (ea_wc_order_stats) to final table name (wphq_wc_order_stats)
+0000.599 () Processing table (InnoDB): wphq_wc_order_tax_lookup - will restore as: ea_wc_order_tax_lookup
+0000.601 () Atomic restore: dropping original table (wphq_wc_order_tax_lookup)
+0000.602 () Atomic restore: renaming new table (ea_wc_order_tax_lookup) to final table name (wphq_wc_order_tax_lookup)
+0000.602 () Processing table (InnoDB): wphq_wc_product_attributes_lookup - will restore as: ea_wc_product_attributes_lookup
+0000.610 () Atomic restore: dropping original table (wphq_wc_product_attributes_lookup)
+0000.611 () Atomic restore: renaming new table (ea_wc_product_attributes_lookup) to final table name (wphq_wc_product_attributes_lookup)
+0000.612 () Processing table (InnoDB): wphq_wc_product_download_directories - will restore as: ea_wc_product_download_directories
+0000.619 () Atomic restore: dropping original table (wphq_wc_product_download_directories)
+0000.619 () Atomic restore: renaming new table (ea_wc_product_download_directories) to final table name (wphq_wc_product_download_directories)
+0000.620 () Processing table (InnoDB): wphq_wc_rate_limits - will restore as: ea_wc_rate_limits
+0000.626 () Atomic restore: dropping original table (wphq_wc_rate_limits)
+0000.627 () Atomic restore: renaming new table (ea_wc_rate_limits) to final table name (wphq_wc_rate_limits)
+0000.627 () Processing table (InnoDB): wphq_wc_webhooks - will restore as: ea_wc_webhooks
+0000.634 () Atomic restore: dropping original table (wphq_wc_webhooks)
+0000.634 () Atomic restore: renaming new table (ea_wc_webhooks) to final table name (wphq_wc_webhooks)
+0000.635 () Processing table (InnoDB): wphq_woocommerce_api_keys - will restore as: ea_woocommerce_api_keys
+0000.642 () Atomic restore: dropping original table (wphq_woocommerce_api_keys)
+0000.643 () Atomic restore: renaming new table (ea_woocommerce_api_keys) to final table name (wphq_woocommerce_api_keys)
+0000.643 () Processing table (InnoDB): wphq_woocommerce_attribute_taxonomies - will restore as: ea_woocommerce_attribute_taxonomies
+0000.651 () Atomic restore: dropping original table (wphq_woocommerce_attribute_taxonomies)
+0000.652 () Atomic restore: renaming new table (ea_woocommerce_attribute_taxonomies) to final table name (wphq_woocommerce_attribute_taxonomies)
+0000.652 () Processing table (InnoDB): wphq_woocommerce_downloadable_product_permissions - will restore as: ea_woocommerce_downloadable_product_permissions
+0000.660 () Atomic restore: dropping original table (wphq_woocommerce_downloadable_product_permissions)
+0000.661 () Atomic restore: renaming new table (ea_woocommerce_downloadable_product_permissions) to final table name (wphq_woocommerce_downloadable_product_permissions)
+0000.661 () Processing table (InnoDB): wphq_woocommerce_log - will restore as: ea_woocommerce_log
+0000.663 () Atomic restore: dropping original table (wphq_woocommerce_log)
+0000.664 () Atomic restore: renaming new table (ea_woocommerce_log) to final table name (wphq_woocommerce_log)
+0000.664 () Processing table (InnoDB): wphq_woocommerce_order_items - will restore as: ea_woocommerce_order_items
+0000.671 () Atomic restore: dropping original table (wphq_woocommerce_order_items)
+0000.671 () Atomic restore: renaming new table (ea_woocommerce_order_items) to final table name (wphq_woocommerce_order_items)
+0000.672 () Processing table (InnoDB): wphq_woocommerce_payment_tokens - will restore as: ea_woocommerce_payment_tokens
+0000.673 () Atomic restore: dropping original table (wphq_woocommerce_payment_tokens)
+0000.674 () Atomic restore: renaming new table (ea_woocommerce_payment_tokens) to final table name (wphq_woocommerce_payment_tokens)
+0000.674 () Processing table (InnoDB): wphq_woocommerce_sessions - will restore as: ea_woocommerce_sessions
+0000.681 () Atomic restore: dropping original table (wphq_woocommerce_sessions)
+0000.681 () Atomic restore: renaming new table (ea_woocommerce_sessions) to final table name (wphq_woocommerce_sessions)
+0000.682 () Processing table (InnoDB): wphq_woocommerce_shipping_zone_locations - will restore as: ea_woocommerce_shipping_zone_locations
+0000.684 () Atomic restore: dropping original table (wphq_woocommerce_shipping_zone_locations)
+0000.684 () Database queries processed: 150 in 0.66 seconds
+0000.684 () Atomic restore: renaming new table (ea_woocommerce_shipping_zone_locations) to final table name (wphq_woocommerce_shipping_zone_locations)
+0000.685 () Processing table (InnoDB): wphq_woocommerce_shipping_zone_methods - will restore as: ea_woocommerce_shipping_zone_methods
+0000.686 () Atomic restore: dropping original table (wphq_woocommerce_shipping_zone_methods)
+0000.687 () Atomic restore: renaming new table (ea_woocommerce_shipping_zone_methods) to final table name (wphq_woocommerce_shipping_zone_methods)
+0000.687 () Processing table (InnoDB): wphq_woocommerce_shipping_zones - will restore as: ea_woocommerce_shipping_zones
+0000.689 () Atomic restore: dropping original table (wphq_woocommerce_shipping_zones)
+0000.690 () Atomic restore: renaming new table (ea_woocommerce_shipping_zones) to final table name (wphq_woocommerce_shipping_zones)
+0000.690 () Processing table (InnoDB): wphq_woocommerce_tax_rate_locations - will restore as: ea_woocommerce_tax_rate_locations
+0000.692 () Atomic restore: dropping original table (wphq_woocommerce_tax_rate_locations)
+0000.692 () Atomic restore: renaming new table (ea_woocommerce_tax_rate_locations) to final table name (wphq_woocommerce_tax_rate_locations)
+0000.693 () Processing table (InnoDB): wphq_woocommerce_tax_rates - will restore as: ea_woocommerce_tax_rates
+0000.700 () Atomic restore: dropping original table (wphq_woocommerce_tax_rates)
+0000.701 () Atomic restore: renaming new table (ea_woocommerce_tax_rates) to final table name (wphq_woocommerce_tax_rates)
+0000.701 () Processing table (InnoDB): wphq_wpforms_tasks_meta - will restore as: ea_wpforms_tasks_meta
+0000.703 () UpdraftPlus Vault: this site has not been connected - check your settings
+0002.482 () Unlocking database and leaving maintenance mode
+0002.482 () Disabling Maintenance mode&#8230;
+0002.482 () Atomic restore: dropping original table (wphq_wpforms_tasks_meta)
+0002.484 () Atomic restore: renaming new table (ea_wpforms_tasks_meta) to final table name (wphq_wpforms_tasks_meta)
+0002.484 () Finished: lines processed: 164 in 2.46 seconds
+0002.485 () Cleaning up rubbish...
+0002.488 () Entity: plugins
+0002.488 () restore_backup(backup_file=backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-plugins.zip, type=plugins, info=a:3:{s:4:"path";s:45:"/home/mibspiri/public_html/wp-content/plugins";s:11:"description";s:7:"Plugins";s:20:"singular_description";s:6:"Plugin";}, last_one=)
+0002.488 () Unpacking backup... (backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-plugins.zip, 44.5 MB)
+0002.489 () Unzipping backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-plugins.zip to /home/mibspiri/public_html/wp-content/upgrade/675a77df/ using UpdraftPlus_ZipArchive, starting index 0
+0002.651 () Unzip progress: 2191 out of 12949 files (137.4 KB, plugins/insight-core/libs/kungfu/assets/ace-editor/src-min-noconflict/worker-css.js)
+0002.719 () Unzip progress: 3192 out of 12949 files (11.1 MB, plugins/wpforms-lite/templates/builder/templates-item.php)
+0002.810 () Unzip progress: 4193 out of 12949 files (27.5 MB, plugins/woocommerce/includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php)
+0002.881 () Unzip progress: 5194 out of 12949 files (42.4 MB, plugins/woocommerce/packages/woocommerce-blocks/build/products-by-attribute.asset.php)
+0002.954 () Unzip progress: 6195 out of 12949 files (52.9 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/blocks/cart-checkout-shared/payment-methods/index.js)
+0003.013 () Unzip progress: 7196 out of 12949 files (55.7 MB, plugins/woocommerce/assets/client/admin/chunks/7708.style.css)
+0003.155 () Unzip progress: 8197 out of 12949 files (60.3 MB, plugins/elementor/includes/controls/number.php)
+0003.426 () Unzip progress: 9198 out of 12949 files (71.6 MB, plugins/elementor/assets/js/video.9fcf6f0b982bacc93b9e.bundle.js)
+0003.808 () Unzip progress: 10199 out of 12949 files (88.3 MB, plugins/updraftplus/vendor/paragonie/random_compat/lib/cast_to_int.php)
+0004.187 () Unzip progress: 11200 out of 12949 files (104.7 MB, plugins/redux-framework/redux-core/inc/fields/spinner/redux-spinner.min.js)
+0004.675 () Unzip progress: 12201 out of 12949 files (126.6 MB, plugins/redux-framework/readme.txt)
+0004.808 () Unzip progress: 12949 out of 12949 files (131.3 MB, plugins/redux-framework/redux-core/inc/fields/spinner/vendor/jquery.ui.spinner.js)
+0004.816 () Moving old data: filesystem method / updraft_dir is potentially possible
+0004.816 () Moving old data: can potentially use wp_filesystem method / -old
+0004.816 () Moving old data out of the way...
+0004.932 () Top-level entities being moved: hello.php, insight-core, insight-product-brands, tm-addons-for-elementor, woo-smart-compare-premium, woo-bought-together-premium, sctv-sales-countdown-timer, akismet, woo-advanced-discounts, wpforms-lite, woo-smart-wishlist-premium, wpc-product-tabs-premium, woocommerce, insight-swatches, index.php, elementor, woo-product-bundle-premium, mabel-shoppable-images-lite, updraftplus, redux-framework
+0004.934 () Moving unpacked backup into place...
+0005.040 () Top-level entities being moved: hello.php, insight-core, insight-product-brands, tm-addons-for-elementor, woo-smart-compare-premium, woo-bought-together-premium, sctv-sales-countdown-timer, akismet, woo-advanced-discounts, wpforms-lite, woo-smart-wishlist-premium, wpc-product-tabs-premium, woocommerce, insight-swatches, index.php, elementor, woo-product-bundle-premium, mabel-shoppable-images-lite, updraftplus, redux-framework
+0005.045 () Cleaning up rubbish...
+0005.046 () Entity: themes
+0005.046 () restore_backup(backup_file=backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-themes.zip, type=themes, info=a:3:{s:4:"path";s:44:"/home/mibspiri/public_html/wp-content/themes";s:11:"description";s:6:"Themes";s:20:"singular_description";s:5:"Theme";}, last_one=)
+0005.046 () Unpacking backup... (backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-themes.zip, 40.7 MB)
+0005.046 () Unzipping backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-themes.zip to /home/mibspiri/public_html/wp-content/upgrade/fd8e7618/ using UpdraftPlus_ZipArchive, starting index 0
+0005.353 () Unzip progress: 1002 out of 2952 files (25.2 MB, themes/twentytwentytwo/styles/blue.json)
+0007.167 () Unzip progress: 2003 out of 2952 files (113.8 MB, themes/minimog/woocommerce/content-product-list-02.php)
+0007.523 () Unzip progress: 2952 out of 2952 files (129.4 MB, themes/minimog/assets/fonts/minimog/fonts/Minimog-Icon.eot)
+0007.528 () Moving old data: filesystem method / updraft_dir is potentially possible
+0007.528 () Moving old data: can potentially use wp_filesystem method / -old
+0007.528 () Moving old data out of the way...
+0007.579 () Top-level entities being moved: twentytwentytwo, twentytwentythree, minimog-child, twentytwentyone, index.php, minimog
+0007.580 () Moving unpacked backup into place...
+0007.601 () Top-level entities being moved: twentytwentytwo, twentytwentythree, minimog-child, twentytwentyone, index.php, minimog
+0007.602 () Cleaning up rubbish...
+0007.603 () Entity: uploads
+0007.603 () restore_backup(backup_file=backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:45:"/home/mibspiri/public_html/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0007.603 () Unpacking backup... (backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-uploads.zip, 246.4 MB)
+0007.603 () Unzipping backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-uploads.zip to /home/mibspiri/public_html/wp-content/upgrade/64bccfd9/ using UpdraftPlus_ZipArchive, starting index 0
+0009.707 () Unzip progress: 251 out of 612 files (107.4 MB, uploads/2022/12/12.jpg)
+0011.729 () Unzip progress: 504 out of 612 files (208.2 MB, uploads/2022/12/MG_0142.jpg)
+0012.519 () Unzip progress: 612 out of 612 files (247.5 MB, uploads/2022/12/blue-bag-1-450x600.jpg)
+0012.544 () Moving old data: filesystem method / updraft_dir is potentially possible
+0012.544 () Moving old data: can potentially use wp_filesystem method / -old
+0012.544 () Moving old data out of the way...
+0012.550 () Moving unpacked backup into place...
+0012.554 () Cleaning up rubbish...
+0012.555 () Entity: others
+0012.555 () restore_backup(backup_file=backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-others.zip, type=others, info=a:2:{s:4:"path";s:37:"/home/mibspiri/public_html/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0012.555 () Unpacking backup... (backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-others.zip, 0 MB)
+0012.555 () Unzipping backup_2022-12-21-2025_MIB_Spirit_87a88f58167b-others.zip to /home/mibspiri/public_html/wp-content/upgrade/06cac508/ using UpdraftPlus_ZipArchive, starting index 0
+0012.556 () Unzip progress: 1 out of 1 files (28 B, index.php)
+0012.556 () Cleaning up rubbish...
+0012.561 () Elementor's clear cache method exists and will be executed
+0012.565 () Restore successful!
+0012.565 () Restore successful

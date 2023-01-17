@@ -1,0 +1,679 @@
+0000.000 (0) Opened log file at time: Sat, 07 Jan 2023 11:11:03 +0000 on https://mibspirit.shop
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.24 WP: 6.1.1 PHP: 7.4.33 (litespeed, Linux s575.use6.mysecurecloudhost.com 4.18.0-372.9.1.1.lve.el8.x86_64 #1 SMP Tue May 24 07:49:22 EDT 2022 x86_64) MySQL: 10.5.18-MariaDB-cll-lve (max packet size=268435456) WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 21.3M | 6M) multisite: N openssl: OpenSSL 1.1.1p  21 Jun 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.015 (0) Free space on disk containing Updraft's temporary directory: 295357.2 MB
+0000.016 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.017 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.018 (0) Semaphore (fd, wphq_options) was stuck, set lock time to 2023-01-07 11:11:03
+0000.019 (0) Semaphore (fd, wphq_options) reset to 1
+0000.019 (0) Set semaphore last lock (fd) time to 2023-01-07 11:11:03
+0000.019 (0) Semaphore lock (fd) complete
+0000.022 (0) Backup run: resumption=0, nonce=55395906fa2a, file_nonce=55395906fa2a begun at=1673089863 (0s ago), job type=backup
+0000.022 (0) Scheduling a resumption (1) after 300 seconds (1673090163) in case this run gets aborted
+0000.035 (0) Checking if we have a zip executable available
+0000.036 (0) Testing: /usr/bin/zip
+0000.040 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.041 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.041 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.041 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.042 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.045 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.045 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.046 (0) Working binary zip found: /usr/bin/zip
+0000.046 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.046 (0) Creation of backups of directories: beginning
+0000.047 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.189 (0) Total entities for the zip file: 2481 directories, 11596 files (0 skipped as non-modified), 146.8 MB
+0001.191 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.192 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.193 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.195 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.196 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.197 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.198 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.199 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.200 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.201 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.201 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.1 MB, 11596 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0002.641 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: size is now: 3.80 MB
+0002.642 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1100 files added (on-disk size: 3920 KB)
+0002.643 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1200 files added (on-disk size: 3920 KB)
+0002.644 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1300 files added (on-disk size: 3920 KB)
+0002.645 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1400 files added (on-disk size: 3920 KB)
+0002.646 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1500 files added (on-disk size: 3920 KB)
+0002.647 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1600 files added (on-disk size: 3920 KB)
+0002.649 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1700 files added (on-disk size: 3920 KB)
+0002.650 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1800 files added (on-disk size: 3920 KB)
+0002.650 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 1900 files added (on-disk size: 3920 KB)
+0002.651 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2000 files added (on-disk size: 3920 KB)
+0002.652 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (16.3 MB, 11596 files batched, 1001 (2002) added so far); re-opening (prior size: 3920 KB)
+0003.376 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: size is now: 9.70 MB
+0003.378 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2100 files added (on-disk size: 9919.1 KB)
+0003.378 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2200 files added (on-disk size: 9919.1 KB)
+0003.379 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2300 files added (on-disk size: 9919.1 KB)
+0003.380 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2400 files added (on-disk size: 9919.1 KB)
+0003.381 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2500 files added (on-disk size: 9919.1 KB)
+0003.382 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2600 files added (on-disk size: 9919.1 KB)
+0003.383 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2700 files added (on-disk size: 9919.1 KB)
+0003.384 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2800 files added (on-disk size: 9919.1 KB)
+0003.385 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 2900 files added (on-disk size: 9919.1 KB)
+0003.386 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3000 files added (on-disk size: 9919.1 KB)
+0003.387 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (15.3 MB, 11596 files batched, 1001 (3003) added so far); re-opening (prior size: 9919.1 KB)
+0003.774 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: size is now: 16.20 MB
+0003.776 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3100 files added (on-disk size: 16636.3 KB)
+0003.777 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3200 files added (on-disk size: 16636.3 KB)
+0003.778 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3300 files added (on-disk size: 16636.3 KB)
+0003.779 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3400 files added (on-disk size: 16636.3 KB)
+0003.779 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3500 files added (on-disk size: 16636.3 KB)
+0003.780 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3600 files added (on-disk size: 16636.3 KB)
+0003.781 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3700 files added (on-disk size: 16636.3 KB)
+0003.782 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3800 files added (on-disk size: 16636.3 KB)
+0003.783 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 3900 files added (on-disk size: 16636.3 KB)
+0003.784 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4000 files added (on-disk size: 16636.3 KB)
+0003.784 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.5 MB, 11596 files batched, 1001 (4004) added so far); re-opening (prior size: 16636.3 KB)
+0004.531 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4100 files added (on-disk size: 19416.8 KB)
+0004.532 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4200 files added (on-disk size: 19416.8 KB)
+0004.533 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4300 files added (on-disk size: 19416.8 KB)
+0004.534 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4400 files added (on-disk size: 19416.8 KB)
+0004.535 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4500 files added (on-disk size: 19416.8 KB)
+0004.536 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4600 files added (on-disk size: 19416.8 KB)
+0004.537 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4700 files added (on-disk size: 19416.8 KB)
+0004.538 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4800 files added (on-disk size: 19416.8 KB)
+0004.539 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 4900 files added (on-disk size: 19416.8 KB)
+0004.540 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5000 files added (on-disk size: 19416.8 KB)
+0004.540 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (2.8 MB, 11596 files batched, 1001 (5005) added so far); re-opening (prior size: 19416.8 KB)
+0005.568 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5100 files added (on-disk size: 20671.1 KB)
+0005.569 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5200 files added (on-disk size: 20671.1 KB)
+0005.570 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5300 files added (on-disk size: 20671.1 KB)
+0005.572 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5400 files added (on-disk size: 20671.1 KB)
+0005.573 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5500 files added (on-disk size: 20671.1 KB)
+0005.574 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5600 files added (on-disk size: 20671.1 KB)
+0005.575 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5700 files added (on-disk size: 20671.1 KB)
+0005.576 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5800 files added (on-disk size: 20671.1 KB)
+0005.577 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 5900 files added (on-disk size: 20671.1 KB)
+0005.578 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6000 files added (on-disk size: 20671.1 KB)
+0005.578 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (4.5 MB, 11596 files batched, 1001 (6006) added so far); re-opening (prior size: 20671.1 KB)
+0006.428 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6100 files added (on-disk size: 22690.2 KB)
+0006.429 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6200 files added (on-disk size: 22690.2 KB)
+0006.430 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6300 files added (on-disk size: 22690.2 KB)
+0006.431 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6400 files added (on-disk size: 22690.2 KB)
+0006.432 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6500 files added (on-disk size: 22690.2 KB)
+0006.433 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6600 files added (on-disk size: 22690.2 KB)
+0006.434 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6700 files added (on-disk size: 22690.2 KB)
+0006.435 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6800 files added (on-disk size: 22690.2 KB)
+0006.436 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 6900 files added (on-disk size: 22690.2 KB)
+0006.437 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7000 files added (on-disk size: 22690.2 KB)
+0006.437 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.5 MB, 11596 files batched, 1001 (7007) added so far); re-opening (prior size: 22690.2 KB)
+0007.160 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7100 files added (on-disk size: 26389.3 KB)
+0007.161 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7200 files added (on-disk size: 26389.3 KB)
+0007.163 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7300 files added (on-disk size: 26389.3 KB)
+0007.164 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7400 files added (on-disk size: 26389.3 KB)
+0007.166 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7500 files added (on-disk size: 26389.3 KB)
+0007.167 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7600 files added (on-disk size: 26389.3 KB)
+0007.168 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7700 files added (on-disk size: 26389.3 KB)
+0007.170 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7800 files added (on-disk size: 26389.3 KB)
+0007.171 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 7900 files added (on-disk size: 26389.3 KB)
+0007.172 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8000 files added (on-disk size: 26389.3 KB)
+0007.173 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (16.4 MB, 11596 files batched, 1001 (8008) added so far); re-opening (prior size: 26389.3 KB)
+0007.817 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8100 files added (on-disk size: 29680.7 KB)
+0007.818 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8200 files added (on-disk size: 29680.7 KB)
+0007.819 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8300 files added (on-disk size: 29680.7 KB)
+0007.820 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8400 files added (on-disk size: 29680.7 KB)
+0007.821 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8500 files added (on-disk size: 29680.7 KB)
+0007.822 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8600 files added (on-disk size: 29680.7 KB)
+0007.823 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8700 files added (on-disk size: 29680.7 KB)
+0007.824 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8800 files added (on-disk size: 29680.7 KB)
+0007.824 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 8900 files added (on-disk size: 29680.7 KB)
+0007.825 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9000 files added (on-disk size: 29680.7 KB)
+0007.826 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (23 MB, 11596 files batched, 1001 (9009) added so far); re-opening (prior size: 29680.7 KB)
+0008.732 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: size is now: 35.60 MB
+0008.734 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9100 files added (on-disk size: 36425 KB)
+0008.735 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9200 files added (on-disk size: 36425 KB)
+0008.736 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9300 files added (on-disk size: 36425 KB)
+0008.737 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9400 files added (on-disk size: 36425 KB)
+0008.738 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9500 files added (on-disk size: 36425 KB)
+0008.740 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9600 files added (on-disk size: 36425 KB)
+0008.741 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9700 files added (on-disk size: 36425 KB)
+0008.741 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9800 files added (on-disk size: 36425 KB)
+0008.742 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 9900 files added (on-disk size: 36425 KB)
+0008.743 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10000 files added (on-disk size: 36425 KB)
+0008.744 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.1 MB, 11596 files batched, 1001 (10010) added so far); re-opening (prior size: 36425 KB)
+0009.653 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10100 files added (on-disk size: 39773.4 KB)
+0009.654 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10200 files added (on-disk size: 39773.4 KB)
+0009.655 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10300 files added (on-disk size: 39773.4 KB)
+0009.656 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10400 files added (on-disk size: 39773.4 KB)
+0009.657 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10500 files added (on-disk size: 39773.4 KB)
+0009.658 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10600 files added (on-disk size: 39773.4 KB)
+0009.659 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10700 files added (on-disk size: 39773.4 KB)
+0009.660 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10800 files added (on-disk size: 39773.4 KB)
+0009.661 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 10900 files added (on-disk size: 39773.4 KB)
+0009.662 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 11000 files added (on-disk size: 39773.4 KB)
+0009.662 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (21.9 MB, 11596 files batched, 1001 (11011) added so far); re-opening (prior size: 39773.4 KB)
+0010.745 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 11100 files added (on-disk size: 46563.7 KB)
+0010.747 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 11200 files added (on-disk size: 46563.7 KB)
+0010.748 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 11300 files added (on-disk size: 46563.7 KB)
+0010.750 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 11400 files added (on-disk size: 46563.7 KB)
+0010.751 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.tmp: 11500 files added (on-disk size: 46563.7 KB)
+0011.742 (0) Creating zip file manifest (backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip.list-temp.tmp)
+0011.755 (0) Successfully created zip file manifest (size: 1039127)
+0012.016 (0) Created plugins zip (0) - 48683 KB in 12 s (4071.6 KB/s) (sha1: 60f643a611d3628859da3f2491cc84a5c6c0e5d0, sha256: bdb08b2821886bab7a09ed89b2af416494154aee08b4475228959fa2252ac343)
+0012.022 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0012.022 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-e21ea626b8eaf6c3b2b5cacbadec70e3)
+0014.003 (0) Google Drive: quota usage: used=461.7 MB, total=15360 MB, available=14898.3 MB
+0014.004 (0) Google Drive: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip: Attempting to upload to Google Drive (into folder id: 1tTvRgr5ev2cvnOalczP2ZimaNv6gorFv)
+0014.677 (0) Googledrive chunked upload: 2.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 24.4 / 24)
+0015.157 (0) Googledrive chunked upload: 6.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 24.4 / 24)
+0015.826 (0) Googledrive chunked upload: 14.7 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 24.4 / 24)
+0016.840 (0) Googledrive chunked upload: 31.6 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 24.4 / 24)
+0018.419 (0) Googledrive chunked upload: 65.2 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 24.4 / 24)
+0021.415 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0021.416 (0) Google Drive: OK: Archive backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip uploaded in 7.41 seconds
+0021.416 (0) Recording as successfully uploaded: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip
+0021.422 (0) Deleting local file: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip: OK
+0021.424 (0) Beginning creation of dump of themes (split every: 400 MB)
+0021.495 (0) Total entities for the zip file: 375 directories, 2724 files (0 skipped as non-modified), 177.7 MB
+0021.497 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.498 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0021.499 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0021.500 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0021.501 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0021.502 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0021.503 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 2724 files batched, 687 (687) added so far); re-opening (prior size: 0 KB)
+0022.030 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: size is now: 15.70 MB
+0022.031 (0) A useful amount of data was added after this amount of zip processing: 1.4 s (normalised: 1.4 s, rate: 18752.8 KB/s)
+0022.032 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.3664739131927, normalised_time=1.3651310392719, max_time=22.031574010849, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0022.033 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 700 files added (on-disk size: 16112.6 KB)
+0022.034 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 800 files added (on-disk size: 16112.6 KB)
+0022.035 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 900 files added (on-disk size: 16112.6 KB)
+0022.036 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1000 files added (on-disk size: 16112.6 KB)
+0022.037 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1100 files added (on-disk size: 16112.6 KB)
+0022.038 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1200 files added (on-disk size: 16112.6 KB)
+0022.039 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1300 files added (on-disk size: 16112.6 KB)
+0022.039 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1400 files added (on-disk size: 16112.6 KB)
+0022.040 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1500 files added (on-disk size: 16112.6 KB)
+0022.041 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1600 files added (on-disk size: 16112.6 KB)
+0022.042 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (134.2 MB, 2724 files batched, 1001 (1688) added so far); re-opening (prior size: 16112.6 KB)
+0024.836 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: size is now: 38.30 MB
+0024.837 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1700 files added (on-disk size: 39253.4 KB)
+0024.838 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1800 files added (on-disk size: 39253.4 KB)
+0024.839 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 1900 files added (on-disk size: 39253.4 KB)
+0024.840 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 2000 files added (on-disk size: 39253.4 KB)
+0024.841 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 2100 files added (on-disk size: 39253.4 KB)
+0024.842 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 2200 files added (on-disk size: 39253.4 KB)
+0024.843 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 2300 files added (on-disk size: 39253.4 KB)
+0024.844 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 2400 files added (on-disk size: 39253.4 KB)
+0024.845 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 2500 files added (on-disk size: 39253.4 KB)
+0024.846 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 2600 files added (on-disk size: 39253.4 KB)
+0024.847 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.8 MB, 2724 files batched, 1001 (2689) added so far); re-opening (prior size: 39253.4 KB)
+0026.135 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: size is now: 46.60 MB
+0026.136 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.tmp: 2700 files added (on-disk size: 47708.9 KB)
+0027.097 (0) Creating zip file manifest (backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip.list-temp.tmp)
+0027.100 (0) Successfully created zip file manifest (size: 198872)
+0027.355 (0) Created themes zip (0) - 47815.6 KB in 5.9 s (8082.7 KB/s) (sha1: 037e4c984c4854830ce43f0821bde70c36b6856d, sha256: 4e4eb639239f539172c7cb672ff83f5ff5f82b5a41e0a610be7bcbc76b32fa09)
+0027.357 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0027.357 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-e21ea626b8eaf6c3b2b5cacbadec70e3)
+0027.539 (0) Google Drive: quota usage: used=509.2 MB, total=15360 MB, available=14850.8 MB
+0027.539 (0) Google Drive: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip: Attempting to upload to Google Drive (into folder id: 1tTvRgr5ev2cvnOalczP2ZimaNv6gorFv)
+0028.165 (0) Googledrive chunked upload: 2.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.9 / 22)
+0028.628 (0) Googledrive chunked upload: 6.4 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 22.9 / 22)
+0029.201 (0) Googledrive chunked upload: 15 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 22.9 / 22)
+0030.652 (0) Googledrive chunked upload: 32.1 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 22.9 / 22)
+0031.838 (0) Googledrive chunked upload: 66.4 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 22.9 / 22)
+0034.170 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0034.171 (0) Google Drive: OK: Archive backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip uploaded in 6.63 seconds
+0034.171 (0) Recording as successfully uploaded: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip
+0034.177 (0) Deleting local file: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip: OK
+0034.178 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0034.178 (0) Looking for candidates to backup in: /home/mibspiri/public_html/wp-content/uploads
+0034.179 (0) finding files: 2023: adding to list (1)
+0034.179 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (2)
+0034.179 (0) finding files: 2022: adding to list (3)
+0034.179 (0) finding files: woocommerce_uploads: adding to list (4)
+0034.180 (0) finding files: woocommerce-placeholder-450x600.png: adding to list (5)
+0034.180 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (6)
+0034.180 (0) finding files: woocommerce-placeholder-480x480.png: adding to list (7)
+0034.180 (0) finding files: wc-logs: adding to list (8)
+0034.180 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (9)
+0034.181 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (10)
+0034.181 (0) finding files: woocommerce-placeholder-96x96.png: adding to list (11)
+0034.181 (0) finding files: wpforms: adding to list (12)
+0034.181 (0) finding files: redux: adding to list (13)
+0034.181 (0) finding files: woocommerce-placeholder.png: adding to list (14)
+0034.182 (0) finding files: elementor: adding to list (15)
+0034.182 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (16)
+0034.182 (0) finding files: woocommerce-placeholder-300x400.png: adding to list (17)
+0034.182 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (18)
+0034.182 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0034.206 (0) Total entities for the zip file: 11 directories, 1155 files (0 skipped as non-modified), 471.8 MB
+0034.207 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0034.208 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0034.209 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0034.210 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0034.210 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 200 MB added on this batch (202 MB, 1155 files batched, 402 (402) added so far); re-opening (prior size: 0 KB)
+0041.338 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: size is now: 202.10 MB
+0041.339 (0) A useful amount of data was added after this amount of zip processing: 7.7 s (normalised: 7.6 s, rate: 26960.9 KB/s)
+0041.340 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: 500 files added (on-disk size: 206960.9 KB)
+0041.341 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: 600 files added (on-disk size: 206960.9 KB)
+0041.342 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: 700 files added (on-disk size: 206960.9 KB)
+0041.343 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: 800 files added (on-disk size: 206960.9 KB)
+0041.344 (0) Adding batch to zip file (UpdraftPlus_BinZip): possibly approaching split limit (181 MB, 462 (864) files added so far); last ratio: 1; re-opening (prior size: 206960.9 KB)
+0052.652 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.tmp: size is now: 383.10 MB
+0052.654 (0) Zip size is at/near split limit (383.1 MB / 400 MB) - bumping index (from: 0)
+0054.791 (0) Creating zip file manifest (backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip.list-temp.tmp)
+0054.792 (0) Successfully created zip file manifest (size: 49710)
+0054.793 (0) Created uploads zip (0) - 392295.4 KB in 18.5 s (21253.8 KB/s) (checksums: sha1: 77ea637cb8c22c858a9e3810f8710e408a8d36d1, sha256: 4f1628b430960296492c4e91a147f2ee9008c09eda463ecb8fa8f18080fd9fde)
+0054.795 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0054.795 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-e21ea626b8eaf6c3b2b5cacbadec70e3)
+0054.973 (0) Google Drive: quota usage: used=555.9 MB, total=15360 MB, available=14804.1 MB
+0054.974 (0) Google Drive: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip: Attempting to upload to Google Drive (into folder id: 1tTvRgr5ev2cvnOalczP2ZimaNv6gorFv)
+0055.637 (0) Googledrive chunked upload: 0.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.9 / 22)
+0056.073 (0) Googledrive chunked upload: 0.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 22.9 / 22)
+0056.689 (0) Googledrive chunked upload: 1.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 22.9 / 22)
+0057.773 (0) Googledrive chunked upload: 3.9 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 22.9 / 22)
+0058.812 (0) Googledrive chunked upload: 8.1 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 22.9 / 22)
+0061.211 (0) Googledrive chunked upload: 16.4 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 22.9 / 22)
+0064.773 (0) Googledrive chunked upload: 33.2 % uploaded (133169152)
+0069.129 (0) Googledrive chunked upload: 49.9 % uploaded (200278016)
+0071.286 (0) Googledrive chunked upload: 66.6 % uploaded (267386880)
+0078.062 (0) Googledrive chunked upload: 83.3 % uploaded (334495744)
+0080.958 (0) Googledrive chunked upload: 100 % uploaded (401604608)
+0082.176 (0) Googledrive chunked upload: 100 % uploaded (401604608)
+0082.176 (0) Google Drive: OK: Archive backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip uploaded in 27.2 seconds
+0082.177 (0) Recording as successfully uploaded: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip
+0082.216 (0) Deleting local file: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip: OK
+0082.217 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (865) files added so far); re-opening (prior size: 0 KB)
+0082.221 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip.tmp: size is now: 0.00 MB
+0082.222 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip.tmp: 900 files added (on-disk size: 34.1 KB)
+0082.223 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip.tmp: 1000 files added (on-disk size: 34.1 KB)
+0082.224 (0) Zip: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip.tmp: 1100 files added (on-disk size: 34.1 KB)
+0084.766 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip.tmp: size is now: 87.70 MB
+0084.768 (0) Creating zip file manifest (backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip.list-temp.tmp)
+0084.768 (0) Successfully created zip file manifest (size: 15583)
+0085.270 (0) Created uploads zip (1) - 89776.4 KB in 30.5 s (2945.8 KB/s) (sha1: ff3dedc64969d0cf845dad3692b2b0d716e92d39, sha256: 5ba5e07af8be217f907a75bde8964afa291ba9159ea3e741d1e2f63ce45fb5f4)
+0085.272 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0085.272 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-e21ea626b8eaf6c3b2b5cacbadec70e3)
+0085.442 (0) Google Drive: quota usage: used=939 MB, total=15360 MB, available=14421 MB
+0085.442 (0) Google Drive: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip: Attempting to upload to Google Drive (into folder id: 1tTvRgr5ev2cvnOalczP2ZimaNv6gorFv)
+0086.022 (0) Googledrive chunked upload: 1.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.5 / 22)
+0086.528 (0) Googledrive chunked upload: 3.4 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 22.6 / 22)
+0087.070 (0) Googledrive chunked upload: 8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 22.6 / 22)
+0088.040 (0) Googledrive chunked upload: 17.1 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 22.6 / 22)
+0090.038 (0) Googledrive chunked upload: 35.4 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 22.6 / 22)
+0092.285 (0) Googledrive chunked upload: 71.9 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 22.6 / 22)
+0094.506 (0) Googledrive chunked upload: 100 % uploaded (66060288)
+0094.507 (0) Google Drive: OK: Archive backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip uploaded in 9.06 seconds
+0094.507 (0) Recording as successfully uploaded: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip
+0094.520 (0) Deleting local file: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip: OK
+0094.521 (0) Beginning backup of other directories found in the content directory (index: 0)
+0094.521 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0094.522 (0) Looking for candidates to backup in: /home/mibspiri/public_html/wp-content
+0094.522 (0) finding files: plugins: skipping: this is the plugins directory
+0094.522 (0) finding files: updraft: skipping: this is the updraft directory
+0094.522 (0) finding files: uploads: skipping: this is the uploads directory
+0094.522 (0) finding files: upgrade: skipping: excluded by options
+0094.523 (0) finding files: themes: skipping: this is the themes directory
+0094.523 (0) finding files: index.php: adding to list (1)
+0094.538 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0094.542 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-others.zip.tmp: size is now: 0.00 MB
+0094.543 (0) Creating zip file manifest (backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-others.zip.list-temp.tmp)
+0094.543 (0) Successfully created zip file manifest (size: 43)
+0094.545 (0) Created others zip (0) - 0.2 KB in 0 s (25.6 KB/s) (sha1: 6ba7121334c939cb34e8c8f4ea1f32642d53eabf, sha256: 820f86b79de5cf8d7bcfb8e23a8b6951f4a839f225389d037310a57a3fe49ffa)
+0094.546 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0094.546 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-e21ea626b8eaf6c3b2b5cacbadec70e3)
+0094.731 (0) Google Drive: quota usage: used=1026.7 MB, total=15360 MB, available=14333.3 MB
+0094.732 (0) Google Drive: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-others.zip: Attempting to upload to Google Drive (into folder id: 1tTvRgr5ev2cvnOalczP2ZimaNv6gorFv)
+0096.125 (0) Googledrive chunked upload: 100 % uploaded
+0096.126 (0) Google Drive: OK: Archive backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-others.zip uploaded in 1.39 seconds
+0096.126 (0) Recording as successfully uploaded: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-others.zip
+0096.126 (0) Deleting local file: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-others.zip: OK
+0096.128 (0) Saving backup status to database (elements: 9)
+0096.129 (0) Beginning creation of database dump (WordPress DB)
+0096.129 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0096.130 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0096.139 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wphq_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nC (truncated - 1459 bytes total)
+0096.139 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0096.143 (0) Table wphq_options: Total expected rows (via COUNT): 616
+0096.196 (0) Table wphq_options: Rows added in this batch (next record: 14715): 612 (uncompressed bytes in this segment=2272439) in 0.05 seconds
+0096.198 (0) Table wphq_options: finishing file(s) (2, 430.8 KB)
+0096.199 (0) Table wphq_users: Total expected rows (via COUNT): 2
+0096.199 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.200 (0) Table wphq_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1372) in 0.00 seconds
+0096.201 (0) Table wphq_users: finishing file(s) (2, 0.7 KB)
+0096.203 (0) Table wphq_usermeta: Total expected rows (via COUNT): 83
+0096.203 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.204 (0) Table wphq_usermeta: Rows added in this batch (next record: 92): 83 (uncompressed bytes in this segment=8633) in 0.00 seconds
+0096.205 (0) Table wphq_usermeta: finishing file(s) (2, 3.1 KB)
+0096.209 (0) Table wphq_actionscheduler_actions: Total expected rows (approximate): 1792
+0096.225 (0) Table wphq_actionscheduler_actions: Rows added in this batch (next record: 1957): 1948 (uncompressed bytes in this segment=692614) in 0.02 seconds
+0096.227 (0) Table wphq_actionscheduler_actions: finishing file(s) (2, 25.9 KB)
+0096.228 (0) Table wphq_actionscheduler_claims: Total expected rows (via COUNT): 0
+0096.228 (0) Table wphq_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=638) in 0.00 seconds
+0096.229 (0) Table wphq_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0096.230 (0) Table wphq_actionscheduler_groups: Total expected rows (via COUNT): 6
+0096.231 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.231 (0) Table wphq_actionscheduler_groups: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=824) in 0.00 seconds
+0096.232 (0) Table wphq_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0096.233 (0) Table wphq_actionscheduler_logs: Total expected rows (approximate): 5386
+0096.253 (0) Table wphq_actionscheduler_logs: Rows added in this batch (next record: 5836): 5834 (uncompressed bytes in this segment=515401) in 0.02 seconds
+0096.254 (0) Table wphq_actionscheduler_logs: finishing file(s) (2, 39.9 KB)
+0096.256 (0) Table wphq_commentmeta: Total expected rows (via COUNT): 0
+0096.256 (0) Table wphq_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=646) in 0.00 seconds
+0096.258 (0) Table wphq_commentmeta: finishing file(s) (2, 0.4 KB)
+0096.259 (0) Table wphq_comments: Total expected rows (via COUNT): 13
+0096.259 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.260 (0) Table wphq_comments: Rows added in this batch (next record: 13): 13 (uncompressed bytes in this segment=6317) in 0.00 seconds
+0096.261 (0) Table wphq_comments: finishing file(s) (2, 1.1 KB)
+0096.271 (0) Table wphq_e_notes: Total expected rows (via COUNT): 0
+0096.272 (0) Table wphq_e_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1897) in 0.00 seconds
+0096.273 (0) Table wphq_e_notes: finishing file(s) (2, 0.7 KB)
+0096.282 (0) Table wphq_e_notes_users_relations: Total expected rows (via COUNT): 0
+0096.282 (0) Table wphq_e_notes_users_relations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=864) in 0.00 seconds
+0096.283 (0) Table wphq_e_notes_users_relations: finishing file(s) (2, 0.4 KB)
+0096.291 (0) Table wphq_links: Total expected rows (via COUNT): 0
+0096.291 (0) Table wphq_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1039) in 0.00 seconds
+0096.292 (0) Table wphq_links: finishing file(s) (2, 0.5 KB)
+0096.300 (0) Table wphq_postmeta: Total expected rows (approximate): 6688
+0096.377 (0) Table wphq_postmeta: Rows added in this batch (next record: 54066): 6571 (uncompressed bytes in this segment=6975867) in 0.08 seconds
+0096.378 (0) Table wphq_postmeta: finishing file(s) (2, 350.3 KB)
+0096.385 (0) Table wphq_posts: Total expected rows (via COUNT): 710
+0096.416 (0) Table wphq_posts: Rows added in this batch (next record: 20511): 710 (uncompressed bytes in this segment=2606998) in 0.04 seconds
+0096.418 (0) Table wphq_posts: finishing file(s) (2, 162.2 KB)
+0096.419 (0) Table wphq_term_relationships: Total expected rows (approximate): 295
+0096.420 (0) Table wphq_term_relationships: Rows added in this batch (next record: 100000): 319 (uncompressed bytes in this segment=5950) in 0.00 seconds
+0096.421 (0) Table wphq_term_relationships: finishing file(s) (2, 1.3 KB)
+0096.423 (0) Table wphq_term_taxonomy: Total expected rows (via COUNT): 147
+0096.423 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.424 (0) Table wphq_term_taxonomy: Rows added in this batch (next record: 300): 147 (uncompressed bytes in this segment=6208) in 0.00 seconds
+0096.425 (0) Table wphq_term_taxonomy: finishing file(s) (2, 1.5 KB)
+0096.427 (0) Table wphq_termmeta: Total expected rows (via COUNT): 185
+0096.427 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.428 (0) Table wphq_termmeta: Rows added in this batch (next record: 517): 185 (uncompressed bytes in this segment=6869) in 0.00 seconds
+0096.429 (0) Table wphq_termmeta: finishing file(s) (2, 1.7 KB)
+0096.430 (0) Table wphq_terms: Total expected rows (via COUNT): 147
+0096.431 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.431 (0) Table wphq_terms: Rows added in this batch (next record: 300): 147 (uncompressed bytes in this segment=5824) in 0.00 seconds
+0096.432 (0) Table wphq_terms: finishing file(s) (2, 2.1 KB)
+0096.441 (0) Table wphq_wc_category_lookup: Total expected rows (approximate): 13
+0096.442 (0) Table wphq_wc_category_lookup: Rows added in this batch (next record: 1000): 13 (uncompressed bytes in this segment=760) in 0.00 seconds
+0096.443 (0) Table wphq_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0096.452 (0) Table wphq_wc_product_meta_lookup: Total expected rows (via COUNT): 63
+0096.452 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.454 (0) Table wphq_wc_product_meta_lookup: Rows added in this batch (next record: 20468): 63 (uncompressed bytes in this segment=7932) in 0.00 seconds
+0096.455 (0) Table wphq_wc_product_meta_lookup: finishing file(s) (2, 1.3 KB)
+0096.462 (0) Table wphq_wc_reserved_stock: Total expected rows (approximate): 0
+0096.463 (0) Table wphq_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=675) in 0.00 seconds
+0096.464 (0) Table wphq_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0096.465 (0) Table wphq_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0096.466 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.466 (0) Table wphq_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=764) in 0.00 seconds
+0096.468 (0) Table wphq_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0096.476 (0) Table wphq_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0096.477 (0) Table wphq_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=734) in 0.00 seconds
+0096.478 (0) Table wphq_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0096.486 (0) Table wphq_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0096.487 (0) Table wphq_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=761) in 0.00 seconds
+0096.488 (0) Table wphq_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0096.495 (0) Table wphq_e_events: Total expected rows (via COUNT): 10
+0096.495 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.496 (0) Table wphq_e_events: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=2530) in 0.00 seconds
+0096.497 (0) Table wphq_e_events: finishing file(s) (2, 0.7 KB)
+0096.504 (0) Table wphq_e_submissions: Total expected rows (via COUNT): 0
+0096.505 (0) Table wphq_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1991) in 0.00 seconds
+0096.506 (0) Table wphq_e_submissions: finishing file(s) (2, 0.7 KB)
+0096.512 (0) Table wphq_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0096.513 (0) Table wphq_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1152) in 0.00 seconds
+0096.514 (0) Table wphq_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0096.520 (0) Table wphq_e_submissions_values: Total expected rows (via COUNT): 0
+0096.520 (0) Table wphq_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.00 seconds
+0096.522 (0) Table wphq_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0096.523 (0) Table wphq_wc_admin_note_actions: Total expected rows (via COUNT): 57
+0096.523 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.524 (0) Table wphq_wc_admin_note_actions: Rows added in this batch (next record: 2132): 57 (uncompressed bytes in this segment=10520) in 0.00 seconds
+0096.526 (0) Table wphq_wc_admin_note_actions: finishing file(s) (2, 2.3 KB)
+0096.527 (0) Table wphq_wc_admin_notes: Total expected rows (via COUNT): 49
+0096.528 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.529 (0) Table wphq_wc_admin_notes: Rows added in this batch (next record: 49): 49 (uncompressed bytes in this segment=23803) in 0.00 seconds
+0096.530 (0) Table wphq_wc_admin_notes: finishing file(s) (2, 6.3 KB)
+0096.536 (0) Table wphq_wc_customer_lookup: Total expected rows (via COUNT): 0
+0096.537 (0) Table wphq_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1030) in 0.00 seconds
+0096.538 (0) Table wphq_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0096.544 (0) Table wphq_wc_download_log: Total expected rows (via COUNT): 0
+0096.544 (0) Table wphq_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=728) in 0.00 seconds
+0096.545 (0) Table wphq_wc_download_log: finishing file(s) (2, 0.4 KB)
+0096.550 (0) Table wphq_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0096.550 (0) Table wphq_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=727) in 0.00 seconds
+0096.551 (0) Table wphq_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0096.556 (0) Table wphq_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0096.557 (0) Table wphq_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1227) in 0.00 seconds
+0096.558 (0) Table wphq_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0096.562 (0) Table wphq_wc_order_stats: Total expected rows (via COUNT): 0
+0096.563 (0) Table wphq_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1091) in 0.00 seconds
+0096.564 (0) Table wphq_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0096.568 (0) Table wphq_wc_order_tax_lookup: Total expected rows (approximate): 0
+0096.569 (0) Table wphq_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=805) in 0.00 seconds
+0096.570 (0) Table wphq_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0096.574 (0) Table wphq_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0096.575 (0) Table wphq_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=843) in 0.00 seconds
+0096.576 (0) Table wphq_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0096.580 (0) Table wphq_wc_product_download_directories: Total expected rows (via COUNT): 2
+0096.580 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.581 (0) Table wphq_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=896) in 0.00 seconds
+0096.582 (0) Table wphq_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0096.586 (0) Table wphq_wc_rate_limits: Total expected rows (via COUNT): 0
+0096.586 (0) Table wphq_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=679) in 0.00 seconds
+0096.587 (0) Table wphq_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0096.591 (0) Table wphq_wc_webhooks: Total expected rows (via COUNT): 0
+0096.592 (0) Table wphq_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1083) in 0.00 seconds
+0096.593 (0) Table wphq_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0096.597 (0) Table wphq_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0096.597 (0) Table wphq_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=885) in 0.00 seconds
+0096.599 (0) Table wphq_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0096.603 (0) Table wphq_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 4
+0096.603 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.604 (0) Table wphq_woocommerce_attribute_taxonomies: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1119) in 0.00 seconds
+0096.605 (0) Table wphq_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.5 KB)
+0096.608 (0) Table wphq_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0096.609 (0) Table wphq_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1422) in 0.00 seconds
+0096.610 (0) Table wphq_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0096.615 (0) Table wphq_woocommerce_log: Total expected rows (via COUNT): 0
+0096.615 (0) Table wphq_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=654) in 0.00 seconds
+0096.616 (0) Table wphq_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0096.620 (0) Table wphq_woocommerce_order_items: Total expected rows (via COUNT): 0
+0096.621 (0) Table wphq_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=689) in 0.00 seconds
+0096.622 (0) Table wphq_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0096.625 (0) Table wphq_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0096.626 (0) Table wphq_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=756) in 0.00 seconds
+0096.627 (0) Table wphq_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0096.629 (0) Table wphq_woocommerce_sessions: Total expected rows (via COUNT): 2
+0096.629 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.630 (0) Table wphq_woocommerce_sessions: Rows added in this batch (next record: 65): 2 (uncompressed bytes in this segment=5996) in 0.00 seconds
+0096.631 (0) Table wphq_woocommerce_sessions: finishing file(s) (2, 1.6 KB)
+0096.633 (0) Table wphq_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 1
+0096.633 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.633 (0) Table wphq_woocommerce_shipping_zone_locations: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=929) in 0.00 seconds
+0096.634 (0) Table wphq_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0096.636 (0) Table wphq_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 1
+0096.636 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.637 (0) Table wphq_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=863) in 0.00 seconds
+0096.638 (0) Table wphq_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0096.639 (0) Table wphq_woocommerce_shipping_zones: Total expected rows (via COUNT): 1
+0096.639 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.640 (0) Table wphq_woocommerce_shipping_zones: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=707) in 0.00 seconds
+0096.641 (0) Table wphq_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0096.646 (0) Table wphq_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0096.647 (0) Table wphq_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=798) in 0.00 seconds
+0096.648 (0) Table wphq_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0096.650 (0) Table wphq_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0096.652 (0) Table wphq_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1154) in 0.00 seconds
+0096.653 (0) Table wphq_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0096.659 (0) Table wphq_wpforms_tasks_meta: Total expected rows (via COUNT): 4
+0096.659 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0096.660 (0) Table wphq_wpforms_tasks_meta: Rows added in this batch (next record: 5): 4 (uncompressed bytes in this segment=927) in 0.00 seconds
+0096.661 (0) Table wphq_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0096.662 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_options.table.tmpr14716.gz (1/53/fopen): adding to final database dump
+0096.664 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_options.table.gz (2/53/fopen): adding to final database dump
+0096.664 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_users.table.tmpr3.gz (3/53/fopen): adding to final database dump
+0096.664 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_users.table.gz (4/53/fopen): adding to final database dump
+0096.665 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_usermeta.table.tmpr93.gz (5/53/fopen): adding to final database dump
+0096.665 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_usermeta.table.gz (6/53/fopen): adding to final database dump
+0096.665 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_actionscheduler_actions.table.tmpr1958.gz (7/53/fopen): adding to final database dump
+0096.666 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_actionscheduler_actions.table.gz (8/53/fopen): adding to final database dump
+0096.666 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_actionscheduler_claims.table.tmpr0.gz (9/53/fopen): adding to final database dump
+0096.666 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_actionscheduler_claims.table.gz (10/53/fopen): adding to final database dump
+0096.666 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_actionscheduler_groups.table.tmpr7.gz (11/53/fopen): adding to final database dump
+0096.667 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_actionscheduler_groups.table.gz (12/53/fopen): adding to final database dump
+0096.667 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_actionscheduler_logs.table.tmpr5837.gz (13/53/fopen): adding to final database dump
+0096.667 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_actionscheduler_logs.table.gz (14/53/fopen): adding to final database dump
+0096.667 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_commentmeta.table.tmpr0.gz (15/53/fopen): adding to final database dump
+0096.668 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_commentmeta.table.gz (16/53/fopen): adding to final database dump
+0096.668 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_comments.table.tmpr14.gz (17/53/fopen): adding to final database dump
+0096.668 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_comments.table.gz (18/53/fopen): adding to final database dump
+0096.668 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_notes.table.tmpr0.gz (19/53/fopen): adding to final database dump
+0096.669 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_notes.table.gz (20/53/fopen): adding to final database dump
+0096.669 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_notes_users_relations.table.tmpr0.gz (21/53/fopen): adding to final database dump
+0096.669 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_notes_users_relations.table.gz (22/53/fopen): adding to final database dump
+0096.669 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_links.table.tmpr0.gz (23/53/fopen): adding to final database dump
+0096.670 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_links.table.gz (24/53/fopen): adding to final database dump
+0096.670 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_postmeta.table.tmpr54067.gz (25/53/fopen): adding to final database dump
+0096.671 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_postmeta.table.gz (26/53/fopen): adding to final database dump
+0096.672 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_posts.table.tmpr20512.gz (27/53/fopen): adding to final database dump
+0096.673 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_posts.table.gz (28/53/fopen): adding to final database dump
+0096.673 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_term_relationships.table.tmpr100001.gz (29/53/fopen): adding to final database dump
+0096.673 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_term_relationships.table.gz (30/53/fopen): adding to final database dump
+0096.673 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_term_taxonomy.table.tmpr301.gz (31/53/fopen): adding to final database dump
+0096.674 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_term_taxonomy.table.gz (32/53/fopen): adding to final database dump
+0096.674 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_termmeta.table.tmpr518.gz (33/53/fopen): adding to final database dump
+0096.674 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_termmeta.table.gz (34/53/fopen): adding to final database dump
+0096.674 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_terms.table.tmpr301.gz (35/53/fopen): adding to final database dump
+0096.675 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_terms.table.gz (36/53/fopen): adding to final database dump
+0096.675 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_category_lookup.table.tmpr1001.gz (37/53/fopen): adding to final database dump
+0096.675 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_category_lookup.table.gz (38/53/fopen): adding to final database dump
+0096.675 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_product_meta_lookup.table.tmpr20469.gz (39/53/fopen): adding to final database dump
+0096.676 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_product_meta_lookup.table.gz (40/53/fopen): adding to final database dump
+0096.676 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_reserved_stock.table.tmpr1.gz (41/53/fopen): adding to final database dump
+0096.676 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_reserved_stock.table.gz (42/53/fopen): adding to final database dump
+0096.676 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_tax_rate_classes.table.tmpr3.gz (43/53/fopen): adding to final database dump
+0096.676 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_tax_rate_classes.table.gz (44/53/fopen): adding to final database dump
+0096.677 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_order_itemmeta.table.tmpr0.gz (45/53/fopen): adding to final database dump
+0096.677 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_order_itemmeta.table.gz (46/53/fopen): adding to final database dump
+0096.677 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_payment_tokenmeta.table.tmpr0.gz (47/53/fopen): adding to final database dump
+0096.677 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_payment_tokenmeta.table.gz (48/53/fopen): adding to final database dump
+0096.678 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_events.table.tmpr11.gz (49/53/fopen): adding to final database dump
+0096.678 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_events.table.gz (50/53/fopen): adding to final database dump
+0096.678 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_submissions.table.tmpr0.gz (51/53/fopen): adding to final database dump
+0096.678 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_submissions.table.gz (52/53/fopen): adding to final database dump
+0096.679 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_submissions_actions_log.table.tmpr0.gz (53/53/fopen): adding to final database dump
+0096.679 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_submissions_actions_log.table.gz (54/53/fopen): adding to final database dump
+0096.679 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_submissions_values.table.tmpr0.gz (55/53/fopen): adding to final database dump
+0096.679 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_e_submissions_values.table.gz (56/53/fopen): adding to final database dump
+0096.680 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_admin_note_actions.table.tmpr2133.gz (57/53/fopen): adding to final database dump
+0096.680 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_admin_note_actions.table.gz (58/53/fopen): adding to final database dump
+0096.680 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_admin_notes.table.tmpr50.gz (59/53/fopen): adding to final database dump
+0096.680 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_admin_notes.table.gz (60/53/fopen): adding to final database dump
+0096.681 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_customer_lookup.table.tmpr0.gz (61/53/fopen): adding to final database dump
+0096.681 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_customer_lookup.table.gz (62/53/fopen): adding to final database dump
+0096.682 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_download_log.table.tmpr0.gz (63/53/fopen): adding to final database dump
+0096.682 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_download_log.table.gz (64/53/fopen): adding to final database dump
+0096.682 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_order_coupon_lookup.table.tmpr1.gz (65/53/fopen): adding to final database dump
+0096.682 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_order_coupon_lookup.table.gz (66/53/fopen): adding to final database dump
+0096.683 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_order_product_lookup.table.tmpr0.gz (67/53/fopen): adding to final database dump
+0096.683 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_order_product_lookup.table.gz (68/53/fopen): adding to final database dump
+0096.683 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_order_stats.table.tmpr0.gz (69/53/fopen): adding to final database dump
+0096.683 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_order_stats.table.gz (70/53/fopen): adding to final database dump
+0096.684 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_order_tax_lookup.table.tmpr1.gz (71/53/fopen): adding to final database dump
+0096.684 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_order_tax_lookup.table.gz (72/53/fopen): adding to final database dump
+0096.684 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_product_attributes_lookup.table.tmpr1.gz (73/53/fopen): adding to final database dump
+0096.684 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_product_attributes_lookup.table.gz (74/53/fopen): adding to final database dump
+0096.684 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_product_download_directories.table.tmpr3.gz (75/53/fopen): adding to final database dump
+0096.685 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_product_download_directories.table.gz (76/53/fopen): adding to final database dump
+0096.685 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_rate_limits.table.tmpr0.gz (77/53/fopen): adding to final database dump
+0096.685 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_rate_limits.table.gz (78/53/fopen): adding to final database dump
+0096.685 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_webhooks.table.tmpr0.gz (79/53/fopen): adding to final database dump
+0096.686 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wc_webhooks.table.gz (80/53/fopen): adding to final database dump
+0096.686 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_api_keys.table.tmpr0.gz (81/53/fopen): adding to final database dump
+0096.686 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_api_keys.table.gz (82/53/fopen): adding to final database dump
+0096.686 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_attribute_taxonomies.table.tmpr5.gz (83/53/fopen): adding to final database dump
+0096.687 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_attribute_taxonomies.table.gz (84/53/fopen): adding to final database dump
+0096.687 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_downloadable_product_permissions.table.tmpr0.gz (85/53/fopen): adding to final database dump
+0096.687 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_downloadable_product_permissions.table.gz (86/53/fopen): adding to final database dump
+0096.690 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_log.table.tmpr0.gz (87/53/fopen): adding to final database dump
+0096.690 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_log.table.gz (88/53/fopen): adding to final database dump
+0096.690 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_order_items.table.tmpr0.gz (89/53/fopen): adding to final database dump
+0096.690 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_order_items.table.gz (90/53/fopen): adding to final database dump
+0096.691 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_payment_tokens.table.tmpr0.gz (91/53/fopen): adding to final database dump
+0096.691 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_payment_tokens.table.gz (92/53/fopen): adding to final database dump
+0096.691 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_sessions.table.tmpr66.gz (93/53/fopen): adding to final database dump
+0096.691 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_sessions.table.gz (94/53/fopen): adding to final database dump
+0096.691 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_shipping_zone_locations.table.tmpr2.gz (95/53/fopen): adding to final database dump
+0096.692 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_shipping_zone_locations.table.gz (96/53/fopen): adding to final database dump
+0096.692 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_shipping_zone_methods.table.tmpr2.gz (97/53/fopen): adding to final database dump
+0096.693 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_shipping_zone_methods.table.gz (98/53/fopen): adding to final database dump
+0096.693 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_shipping_zones.table.tmpr2.gz (99/53/fopen): adding to final database dump
+0096.694 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_shipping_zones.table.gz (100/53/fopen): adding to final database dump
+0096.694 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_tax_rate_locations.table.tmpr0.gz (101/53/fopen): adding to final database dump
+0096.694 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_tax_rate_locations.table.gz (102/53/fopen): adding to final database dump
+0096.694 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_tax_rates.table.tmpr0.gz (103/53/fopen): adding to final database dump
+0096.695 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_woocommerce_tax_rates.table.gz (104/53/fopen): adding to final database dump
+0096.695 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wpforms_tasks_meta.table.tmpr6.gz (105/53/fopen): adding to final database dump
+0096.695 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db-table-wphq_wpforms_tasks_meta.table.gz (106/53/fopen): adding to final database dump
+0096.696 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db.gz: finished writing out complete database file (1048.2 KB)
+0096.707 (0) Total database tables backed up: 53 (backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db.gz, size: 1073515, sha1: d6ecc6d229f03f296279496452573b2a31dc482d, sha256: 67a5961f8e2d8901ecfd40bd24088396002405e84e7bfe229fa470f16f9fae30)
+0096.709 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-plugins.zip: plugins: This file has already been successfully uploaded
+0096.709 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-themes.zip: themes: This file has already been successfully uploaded
+0096.709 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads.zip: uploads: This file has already been successfully uploaded
+0096.710 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-uploads2.zip: uploads: This file has already been successfully uploaded
+0096.710 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-others.zip: others: This file has already been successfully uploaded
+0096.710 (0) backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0096.712 (0) Saving backup history. Total backup size: 566 MB
+0096.712 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0096.713 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0096.714 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-e21ea626b8eaf6c3b2b5cacbadec70e3)
+0096.909 (0) Google Drive: quota usage: used=1026.7 MB, total=15360 MB, available=14333.3 MB
+0096.910 (0) Google Drive: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db.gz: Attempting to upload to Google Drive (into folder id: 1tTvRgr5ev2cvnOalczP2ZimaNv6gorFv)
+0097.490 (0) Googledrive chunked upload: 97.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.6 / 36)
+0098.580 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0098.582 (0) Google Drive: OK: Archive backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db.gz uploaded in 1.67 seconds
+0098.582 (0) Recording as successfully uploaded: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db.gz
+0098.583 (0) Deleting local file: backup_2023-01-07-1711_MIB_Spirit_55395906fa2a-db.gz: OK
+0098.583 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0098.584 (0) Number of backup sets in history: 3; groups (db): 1
+0098.584 (0) Examining (for databases) backup set with group_id=0, nonce=55395906fa2a, datestamp=1673089863 (Jan 07 2023 11:11:03)
+0098.584 (0) This backup set is the backup set just made, so will not be deleted.
+0098.584 (0) Examining (for databases) backup set with group_id=0, nonce=87a88f58167b, datestamp=1671632752 (Dec 21 2022 14:25:52)
+0098.584 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0098.584 (0) Examining (for databases) backup set with group_id=0, nonce=ea7af3bb255e, datestamp=1671473340 (Dec 19 2022 18:09:00)
+0098.584 (0) 1671473340: db: this set includes a database (backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-db.gz); db count is now 2
+0098.584 (0) 1671473340: db: over retain limit (2); will delete this database
+0098.584 (0) Delete file: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-db.gz, service=googledrive
+0099.781 (0) Google Drive: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-db.gz: Deletion successful
+0099.782 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0099.782 (0) Number of backup sets in history: 3; groups (files): 1
+0099.782 (0) Examining (for files) backup set with nonce=55395906fa2a, datestamp=1673089863 (Jan 07 2023 11:11:03)
+0099.782 (0) This backup set is the backup set just made, so will not be deleted.
+0099.782 (0) This backup set is the backup set just made, so will not be deleted.
+0099.783 (0) This backup set is the backup set just made, so will not be deleted.
+0099.783 (0) This backup set is the backup set just made, so will not be deleted.
+0099.783 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0099.783 (0) Examining (for files) backup set with nonce=87a88f58167b, datestamp=1671632752 (Dec 21 2022 14:25:52)
+0099.783 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0099.783 (0) Examining (for files) backup set with nonce=ea7af3bb255e, datestamp=1671473340 (Dec 19 2022 18:09:00)
+0099.783 (0) plugins: over retain limit (2); will delete this file entity
+0099.783 (0) themes: over retain limit (2); will delete this file entity
+0099.783 (0) uploads: over retain limit (2); will delete this file entity
+0099.783 (0) others: over retain limit (2); will delete this file entity
+0099.783 (0) Delete file: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-plugins.zip, service=googledrive
+0099.783 (0) Delete file: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-themes.zip, service=googledrive
+0099.783 (0) Delete file: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-uploads.zip, service=googledrive
+0099.783 (0) Delete file: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-others.zip, service=googledrive
+0100.654 (0) Google Drive: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-others.zip: Deletion successful
+0101.301 (0) Google Drive: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-uploads.zip: Deletion successful
+0102.065 (0) Google Drive: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-themes.zip: Deletion successful
+0102.760 (0) Google Drive: backup_2022-12-20-0009_MIB_Spirit_ea7af3bb255e-plugins.zip: Deletion successful
+0102.761 (0) This backup set is now empty; will remove from history
+0102.761 (0) Deleting log file (log.ea7af3bb255e.txt)
+0102.762 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0102.763 (0) Resume backup (55395906fa2a, 0): finish run
+0102.764 (0) Decremented the semaphore (fd) by 1
+0102.764 (0) Semaphore (fd) unlocked
+0102.764 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0102.765 (0) No email will/can be sent - the user has not configured an email address.
+0102.765 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,135 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Insight Product Brands for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-03 07:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: insight-product-brands"
+
+#. Description of the plugin
+msgid "Add brands for products"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:118
+msgid "Add New Brand"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:121
+msgid "Add or remove brands"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:113
+msgid "All Brands"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:125
+msgid "Back to brands"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:122
+msgid "Choose from the most used brands"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:116
+msgid "Edit Brand"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://thememove.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "Insight Product Brands for Woocommerce"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:119
+msgid "New Brand Name"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:123
+msgid "No brands found."
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:112
+msgid "Popular Brands"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:72
+msgid "Product brand base"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:124
+msgid "Product brands"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:165
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:210
+msgid "Remove image"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:111
+msgid "Search Brand"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:120
+msgid "Separate brands with commas"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:148
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:188
+msgid ""
+"Set Brand External Url (if you set the url, when visitor click on a brand "
+"name, this url will be displayed instead of brand page )"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:96
+msgctxt "slug"
+msgid "product-brand"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:109
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:130
+msgctxt "taxonomy general name"
+msgid "Brands"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:110
+msgctxt "taxonomy singular name"
+msgid "Brand"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeMove"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:152
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:193
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:251
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:274
+msgid "Thumbnail"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:117
+msgid "Update Brand"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:163
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:207
+msgid "Upload/Add image"
+msgstr ""
+
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:146
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:185
+#: ../../../../../../repos/insight-brands/src/insight-product-brands/insight-product-brands.php:255
+msgid "Url"
+msgstr ""

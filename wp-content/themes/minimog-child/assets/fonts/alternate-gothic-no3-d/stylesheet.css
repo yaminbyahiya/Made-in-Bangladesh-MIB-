@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Alternate Gothic No3 D';
+    src: url('AlternateGotNo3D.woff2') format('woff2'),
+        url('AlternateGotNo3D.woff') format('woff'),
+        url('AlternateGotNo3D.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

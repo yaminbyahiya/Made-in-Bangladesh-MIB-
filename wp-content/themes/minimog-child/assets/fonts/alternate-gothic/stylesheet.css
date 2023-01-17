@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Alternate Gothic No2 D';
+    src: url('AlternateGotNo2D.woff2') format('woff2'),
+        url('AlternateGotNo2D.woff') format('woff'),
+        url('AlternateGotNo2D.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
